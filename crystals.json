@@ -1,0 +1,1472 @@
+{
+  "crystals": [
+    {
+      "id": "amethyst-01",
+      "name": "Amethyst",
+      "description": "A purple variety of quartz that is highly prized for its calming and protective energies. It is known to help with stress relief, spiritual growth, and enhancing intuition.",
+      "properties": [
+        "Calming",
+        "Protective",
+        "Spiritual Growth",
+        "Intuition",
+        "Stress Relief"
+      ],
+      "chakras": ["Crown", "Third Eye"],
+      "element": "Water",
+      "zodiac": ["Pisces", "Virgo", "Aquarius", "Capricorn"],
+      "hardness": 7,
+      "color": "Purple",
+      "healingProperties": {
+        "physical": [
+          "Headaches",
+          "Insomnia",
+          "Addiction Recovery",
+          "Blood Circulation",
+          "Immune System"
+        ],
+        "emotional": [
+          "Anxiety Relief",
+          "Emotional Balance",
+          "Grief Processing",
+          "Mood Stabilization"
+        ],
+        "spiritual": [
+          "Psychic Protection",
+          "Spiritual Awareness",
+          "Divine Connection",
+          "Meditation Enhancement"
+        ]
+      },
+      "meditationUses": [
+        "Third Eye Opening",
+        "Crown Chakra Activation",
+        "Dream Work",
+        "Spiritual Protection",
+        "Intuitive Development"
+      ],
+      "affirmations": [
+        "I am protected by divine light",
+        "My intuition guides me clearly",
+        "I release all that no longer serves me"
+      ],
+      "usageInstructions": [
+        "Place under pillow for peaceful sleep and dream recall",
+        "Wear as jewelry to maintain spiritual protection throughout the day",
+        "Hold during meditation to enhance spiritual awareness",
+        "Place in bedroom corners to create calming energy",
+        "Carry in pocket to reduce stress and anxiety",
+        "Place on desk or workspace to improve mental clarity",
+        "Use in crystal grids for protection and spiritual growth"
+      ],
+      "imageUri": "https://example.com/images/amethyst.jpg"
+    },
+    {
+      "id": "rose-quartz-01",
+      "name": "Rose Quartz",
+      "description": "Known as the 'stone of unconditional love', Rose Quartz promotes compassion, peace, and emotional healing. It helps attract love and strengthen existing relationships.",
+      "properties": [
+        "Love",
+        "Compassion",
+        "Emotional Healing",
+        "Peace",
+        "Harmony"
+      ],
+      "chakras": ["Heart"],
+      "element": "Water",
+      "zodiac": ["Taurus", "Libra"],
+      "hardness": 7,
+      "color": "Pink",
+      "healingProperties": {
+        "physical": [
+          "Heart Health",
+          "Circulation",
+          "Skin Rejuvenation",
+          "Fertility",
+          "Blood Pressure"
+        ],
+        "emotional": [
+          "Self-Love",
+          "Forgiveness",
+          "Trauma Healing",
+          "Relationship Harmony",
+          "Inner Peace"
+        ],
+        "spiritual": [
+          "Heart Chakra Opening",
+          "Compassion Development",
+          "Divine Love Connection"
+        ]
+      },
+      "meditationUses": [
+        "Heart Chakra Healing",
+        "Self-Love Practices",
+        "Forgiveness Work",
+        "Compassion Meditation",
+        "Relationship Healing"
+      ],
+      "affirmations": [
+        "I am worthy of love",
+        "I give and receive love freely",
+        "My heart is open and healed"
+      ],
+      "usageInstructions": [
+        "Place on heart chakra during meditation for emotional healing",
+        "Keep on bedside table to attract love and improve relationships",
+        "Wear close to heart as pendant or pin for self-love",
+        "Hold during arguments to promote forgiveness and understanding",
+        "Place in living room to create harmonious family energy",
+        "Use in bath water for emotional cleansing (ensure stone is safe for water)",
+        "Gift to loved ones to strengthen emotional bonds"
+      ],
+      "imageUri": "https://example.com/images/rose-quartz.jpg"
+    },
+    {
+      "id": "clear-quartz-01",
+      "name": "Clear Quartz",
+      "description": "Often called the 'master healer', Clear Quartz amplifies energy and thought. It can be programmed with intention and helps with clarity, focus, and manifestation.",
+      "properties": ["Amplification", "Clarity", "Healing", "Focus", "Energy"],
+      "chakras": ["All"],
+      "element": "Spirit",
+      "zodiac": ["All"],
+      "hardness": 7,
+      "color": "Clear",
+      "healingProperties": {
+        "physical": [
+          "Energy Boost",
+          "Pain Relief",
+          "Immune Support",
+          "Cellular Regeneration",
+          "Overall Healing"
+        ],
+        "emotional": [
+          "Mental Clarity",
+          "Focus Enhancement",
+          "Emotional Balance",
+          "Stress Relief"
+        ],
+        "spiritual": [
+          "Amplification",
+          "Manifestation",
+          "Spiritual Cleansing",
+          "Aura Clearing"
+        ]
+      },
+      "meditationUses": [
+        "Intention Setting",
+        "Energy Amplification",
+        "Chakra Clearing",
+        "Manifestation Work",
+        "Spiritual Cleansing"
+      ],
+      "affirmations": [
+        "I am clear in my purpose",
+        "My intentions manifest with ease",
+        "I am aligned with my highest good"
+      ],
+      "usageInstructions": [
+        "Program with specific intentions by holding and focusing on your goal",
+        "Place at center of crystal grids to amplify other stones' energies",
+        "Wear as jewelry for general energy enhancement and protection",
+        "Place on desk to improve concentration and mental clarity",
+        "Hold during meditation to deepen spiritual practice",
+        "Use to cleanse and charge other crystals by placing them nearby",
+        "Keep in car for travel protection and clear navigation"
+      ],
+      "imageUri": "https://example.com/images/clear-quartz.jpg"
+    },
+    {
+      "id": "citrine-01",
+      "name": "Citrine",
+      "description": "Known as the 'merchant's stone', Citrine attracts wealth and abundance. It also promotes joy, optimism, and creative energy while dispelling negative energy.",
+      "properties": [
+        "Abundance",
+        "Prosperity",
+        "Joy",
+        "Creativity",
+        "Positivity"
+      ],
+      "chakras": ["Solar Plexus", "Sacral"],
+      "element": "Fire",
+      "zodiac": ["Gemini", "Aries", "Libra", "Leo"],
+      "hardness": 7,
+      "color": "Yellow",
+      "healingProperties": {
+        "physical": [
+          "Digestion",
+          "Metabolism",
+          "Energy Boost",
+          "Detoxification",
+          "Endocrine System"
+        ],
+        "emotional": [
+          "Confidence Building",
+          "Joy Enhancement",
+          "Optimism",
+          "Creativity Boost",
+          "Self-Esteem"
+        ],
+        "spiritual": [
+          "Manifestation",
+          "Personal Power",
+          "Solar Plexus Activation",
+          "Abundance Attraction"
+        ]
+      },
+      "meditationUses": [
+        "Abundance Manifestation",
+        "Solar Plexus Healing",
+        "Confidence Building",
+        "Joy Cultivation",
+        "Personal Power Reclamation"
+      ],
+      "affirmations": [
+        "I am abundant in all areas of life",
+        "Joy flows through me naturally",
+        "I attract prosperity with ease"
+      ],
+      "usageInstructions": [
+        "Place in cash register or business area to attract customers and sales",
+        "Keep in wallet or purse to attract money and opportunities",
+        "Place on desk to boost creativity and motivation",
+        "Wear as jewelry to maintain optimistic energy throughout the day",
+        "Place in the wealth corner of home (far left corner from entrance)",
+        "Hold while setting financial goals and abundance intentions",
+        "Place in sunlight to recharge its solar energy properties"
+      ],
+      "imageUri": "https://example.com/images/citrine.jpg"
+    },
+    {
+      "id": "black-tourmaline-01",
+      "name": "Black Tourmaline",
+      "description": "One of the most powerful protective stones, Black Tourmaline shields against negative energies, electromagnetic radiation, and psychic attacks. It grounds spiritual energy.",
+      "properties": [
+        "Protection",
+        "Grounding",
+        "EMF Shield",
+        "Negativity Removal",
+        "Security"
+      ],
+      "chakras": ["Root"],
+      "element": "Earth",
+      "zodiac": ["Capricorn", "Scorpio"],
+      "hardness": 7.5,
+      "color": "Black",
+      "healingProperties": {
+        "physical": [
+          "EMF Protection",
+          "Immune Support",
+          "Pain Relief",
+          "Muscle Tension",
+          "Arthritis"
+        ],
+        "emotional": [
+          "Anxiety Relief",
+          "Fear Release",
+          "Emotional Stability",
+          "Stress Reduction"
+        ],
+        "spiritual": [
+          "Psychic Protection",
+          "Grounding",
+          "Negative Energy Clearing",
+          "Aura Shielding"
+        ]
+      },
+      "meditationUses": [
+        "Grounding Practice",
+        "Protection Rituals",
+        "Root Chakra Healing",
+        "Energy Cleansing",
+        "Psychic Shielding"
+      ],
+      "affirmations": [
+        "I am safe and protected",
+        "I release all fear and negativity",
+        "I am grounded and secure"
+      ],
+      "usageInstructions": [
+        "Place near electronic devices to shield from EMF radiation",
+        "Keep by front door to protect home from negative energies",
+        "Carry in pocket for personal protection throughout the day",
+        "Place at four corners of property for boundary protection",
+        "Wear as jewelry to maintain psychic shielding",
+        "Keep in car for travel protection and grounding",
+        "Place under bed to protect against nightmares and negative dreams"
+      ],
+      "imageUri": "https://example.com/images/black-tourmaline.jpg"
+    },
+    {
+      "id": "labradorite-01",
+      "name": "Labradorite",
+      "description": "With its mystical play of colors, Labradorite is known as a stone of transformation. It enhances psychic abilities, protects the aura, and facilitates spiritual journeys.",
+      "properties": [
+        "Transformation",
+        "Magic",
+        "Protection",
+        "Intuition",
+        "Psychic Abilities"
+      ],
+      "chakras": ["Third Eye", "Crown"],
+      "element": "Water",
+      "zodiac": ["Leo", "Scorpio", "Sagittarius"],
+      "hardness": 6.5,
+      "color": "Gray with iridescent flashes",
+      "healingProperties": {
+        "physical": [
+          "Eye Health",
+          "Brain Function",
+          "Respiratory System",
+          "Metabolism",
+          "Blood Pressure"
+        ],
+        "emotional": [
+          "Self-Discovery",
+          "Confidence",
+          "Inspiration",
+          "Banishes Fears",
+          "Insecurities"
+        ],
+        "spiritual": [
+          "Psychic Abilities",
+          "Spiritual Awakening",
+          "Aura Protection",
+          "Magical Practices"
+        ]
+      },
+      "meditationUses": [
+        "Psychic Development",
+        "Transformation Work",
+        "Aura Strengthening",
+        "Spiritual Journeying",
+        "Inner Magic Awakening"
+      ],
+      "affirmations": [
+        "I embrace my magical nature",
+        "I trust my psychic abilities",
+        "I am transforming into my highest self"
+      ],
+      "usageInstructions": [
+        "Hold during meditation to enhance psychic abilities",
+        "Wear as pendant to strengthen aura and protect from energy drains",
+        "Place on third eye chakra during spiritual practices",
+        "Keep in workspace to stimulate creativity and inspiration",
+        "Use during full moon rituals for transformation work",
+        "Carry when going through major life changes for support",
+        "Place in bedroom to enhance dream recall and lucid dreaming"
+      ],
+      "imageUri": "https://example.com/images/labradorite.jpg"
+    },
+    {
+      "id": "selenite-01",
+      "name": "Selenite",
+      "description": "Named after the Greek goddess of the moon, Selenite is a high-vibration crystal that cleanses and charges other crystals. It promotes mental clarity and spiritual connection.",
+      "properties": [
+        "Cleansing",
+        "Charging",
+        "Mental Clarity",
+        "Angelic Connection",
+        "Light Work"
+      ],
+      "chakras": ["Crown", "Soul Star"],
+      "element": "Spirit",
+      "zodiac": ["Taurus"],
+      "hardness": 2,
+      "color": "White",
+      "healingProperties": {
+        "physical": [
+          "Spine Alignment",
+          "Skeletal System",
+          "Cell Regeneration",
+          "Skin Health"
+        ],
+        "emotional": [
+          "Mental Clarity",
+          "Peace",
+          "Calm",
+          "Stress Relief",
+          "Confusion Clearing"
+        ],
+        "spiritual": [
+          "Angelic Communication",
+          "Spirit Guide Connection",
+          "Higher Consciousness",
+          "Divine Light"
+        ]
+      },
+      "meditationUses": [
+        "Crown Chakra Activation",
+        "Angelic Communication",
+        "Energy Cleansing",
+        "Spiritual Ascension",
+        "Divine Light Connection"
+      ],
+      "affirmations": [
+        "I am connected to divine light",
+        "My mind is clear and peaceful",
+        "I receive angelic guidance"
+      ],
+      "usageInstructions": [
+        "Place wands around other crystals to cleanse and charge them",
+        "Keep on windowsill to bring in divine light energy",
+        "Place under pillow for angelic protection during sleep",
+        "Use as meditation tool by holding during spiritual practice",
+        "Create crystal grids with selenite wands for energy amplification",
+        "Place in corners of rooms for space clearing and purification",
+        "Do NOT put in water as selenite will dissolve"
+      ],
+      "imageUri": "https://example.com/images/selenite.jpg"
+    },
+    {
+      "id": "lapis-lazuli-01",
+      "name": "Lapis Lazuli",
+      "description": "Prized since antiquity, Lapis Lazuli opens the third eye and enhances intellectual ability. It promotes truth, awareness, and self-expression.",
+      "properties": [
+        "Wisdom",
+        "Truth",
+        "Self-Expression",
+        "Awareness",
+        "Royal Energy"
+      ],
+      "chakras": ["Third Eye", "Throat"],
+      "element": "Water",
+      "zodiac": ["Sagittarius", "Libra"],
+      "hardness": 5.5,
+      "color": "Deep Blue with gold flecks",
+      "healingProperties": {
+        "physical": [
+          "Throat Health",
+          "Thyroid",
+          "Voice",
+          "Hearing",
+          "Blood Pressure"
+        ],
+        "emotional": [
+          "Self-Awareness",
+          "Self-Expression",
+          "Confidence",
+          "Depression Relief"
+        ],
+        "spiritual": [
+          "Third Eye Opening",
+          "Wisdom",
+          "Truth Seeking",
+          "Spiritual Insight"
+        ]
+      },
+      "meditationUses": [
+        "Third Eye Activation",
+        "Truth Seeking",
+        "Wisdom Cultivation",
+        "Self-Expression",
+        "Spiritual Insight"
+      ],
+      "affirmations": [
+        "I speak my truth with confidence",
+        "I am wise and discerning",
+        "My inner vision is clear"
+      ],
+      "usageInstructions": [
+        "Wear as necklace to enhance communication and self-expression",
+        "Place on throat chakra during meditation for truth speaking",
+        "Keep on desk while studying to enhance learning and wisdom",
+        "Hold during important conversations to speak with clarity",
+        "Place on third eye chakra to enhance intuitive insights",
+        "Carry when needing to make important decisions",
+        "Use in jewelry to attract respect and enhance leadership qualities"
+      ],
+      "imageUri": "https://example.com/images/lapis-lazuli.jpg"
+    },
+    {
+      "id": "green-aventurine-01",
+      "name": "Green Aventurine",
+      "description": "Known as the 'Stone of Opportunity', Green Aventurine is thought to be the luckiest of all crystals. It releases old patterns and habits, making room for new growth and opportunities.",
+      "properties": [
+        "Luck",
+        "Opportunity",
+        "Heart Healing",
+        "Confidence",
+        "Growth"
+      ],
+      "chakras": ["Heart"],
+      "element": "Earth",
+      "zodiac": ["Aries", "Leo"],
+      "hardness": 7,
+      "color": "Green",
+      "healingProperties": {
+        "physical": [
+          "Heart Health",
+          "Circulation",
+          "Muscle Recovery",
+          "Allergies",
+          "Skin Conditions"
+        ],
+        "emotional": [
+          "Emotional Recovery",
+          "Optimism",
+          "Leadership Qualities",
+          "Decisiveness"
+        ],
+        "spiritual": [
+          "Manifestation",
+          "Growth",
+          "New Opportunities",
+          "Heart Chakra Healing"
+        ]
+      },
+      "meditationUses": [
+        "Heart Chakra Opening",
+        "Opportunity Manifestation",
+        "Emotional Healing",
+        "Growth Meditation",
+        "Luck Attraction"
+      ],
+      "affirmations": [
+        "I am open to new opportunities",
+        "Good luck flows to me naturally",
+        "My heart is healed and whole"
+      ],
+      "usageInstructions": [
+        "Carry in left pocket to attract luck and new opportunities",
+        "Place in garden to promote plant growth and abundance",
+        "Wear as bracelet on left wrist to draw in prosperity",
+        "Keep in business space to attract customers and success",
+        "Place on heart chakra during meditation for emotional healing",
+        "Rub before job interviews or important meetings for confidence",
+        "Keep in car for safe travels and lucky encounters"
+      ],
+      "imageUri": "https://example.com/images/green-aventurine.jpg"
+    },
+    {
+      "id": "sodalite-01",
+      "name": "Sodalite",
+      "description": "Sodalite brings order and calmness to the mind. It encourages rational thought, objectivity, truth and intuition, along with verbalization of feelings.",
+      "properties": [
+        "Logic",
+        "Rational Thinking",
+        "Truth",
+        "Intuition",
+        "Communication"
+      ],
+      "chakras": ["Throat", "Third Eye"],
+      "element": "Water",
+      "zodiac": ["Sagittarius"],
+      "hardness": 5.5,
+      "color": "Blue",
+      "healingProperties": {
+        "physical": [
+          "Throat Health",
+          "Vocal Cords",
+          "Larynx",
+          "Digestive System",
+          "Cooling Fever"
+        ],
+        "emotional": [
+          "Panic Attacks",
+          "Mental Confusion",
+          "Self-Esteem",
+          "Self-Acceptance"
+        ],
+        "spiritual": [
+          "Meditation Enhancement",
+          "Spiritual Perception",
+          "Understanding"
+        ]
+      },
+      "meditationUses": [
+        "Mental Clarity",
+        "Logical Thinking",
+        "Truth Seeking",
+        "Communication Enhancement",
+        "Intuition Development"
+      ],
+      "affirmations": [
+        "I think clearly and logically",
+        "I communicate with truth and wisdom",
+        "My mind is calm and focused"
+      ],
+      "usageInstructions": [
+        "Keep on desk while studying or working for mental clarity",
+        "Hold during meditation to enhance logical thinking",
+        "Wear as pendant to improve communication skills",
+        "Place in meeting rooms to promote rational discussion",
+        "Carry during exams or tests to enhance mental focus",
+        "Keep by bedside to calm racing thoughts before sleep",
+        "Use in group settings to encourage truth and understanding"
+      ],
+      "imageUri": "https://example.com/images/sodalite.jpg"
+    },
+    {
+      "id": "moonstone-01",
+      "name": "Moonstone",
+      "description": "A stone for new beginnings, Moonstone is strongly connected to moon and to the intuition. It makes conscious the unconscious and promotes intuition and empathy.",
+      "properties": [
+        "New Beginnings",
+        "Intuition",
+        "Feminine Energy",
+        "Emotional Balance",
+        "Cycles"
+      ],
+      "chakras": ["Sacral", "Third Eye", "Crown"],
+      "element": "Water",
+      "zodiac": ["Cancer", "Libra", "Scorpio"],
+      "hardness": 6.5,
+      "color": "White with blue flash",
+      "healingProperties": {
+        "physical": [
+          "Female Reproductive System",
+          "Fertility",
+          "Pregnancy",
+          "Hormonal Balance",
+          "Digestive System"
+        ],
+        "emotional": [
+          "Emotional Stability",
+          "Stress Relief",
+          "Calming",
+          "Intuitive Development"
+        ],
+        "spiritual": [
+          "Psychic Abilities",
+          "Clairvoyance",
+          "Feminine Divine",
+          "Lunar Energy"
+        ]
+      },
+      "meditationUses": [
+        "Moon Cycle Work",
+        "Feminine Energy",
+        "Intuitive Development",
+        "New Beginning Rituals",
+        "Emotional Healing"
+      ],
+      "affirmations": [
+        "I trust my intuition completely",
+        "I embrace new beginnings",
+        "I am in harmony with natural cycles"
+      ],
+      "usageInstructions": [
+        "Wear as ring or bracelet to enhance feminine energy and intuition",
+        "Place under pillow during full moon for prophetic dreams",
+        "Keep in bedroom to balance hormones and reproductive health",
+        "Hold during new moon rituals for new beginning intentions",
+        "Carry during pregnancy for protection and ease",
+        "Place on sacral chakra during meditation for emotional balance",
+        "Use in moon water rituals by placing in water under moonlight"
+      ],
+      "imageUri": "https://example.com/images/moonstone.jpg"
+    },
+    {
+      "id": "fluorite-01",
+      "name": "Fluorite",
+      "description": "Highly protective and stabilizing stone, useful for grounding and harmonizing spiritual energy. Fluorite increases concentration and helps in decision-making.",
+      "properties": [
+        "Mental Clarity",
+        "Focus",
+        "Protection",
+        "Learning",
+        "Decision Making"
+      ],
+      "chakras": ["All"],
+      "element": "Air",
+      "zodiac": ["Capricorn", "Pisces"],
+      "hardness": 4,
+      "color": "Various (Purple, Green, Blue, Yellow)",
+      "healingProperties": {
+        "physical": [
+          "Bone Health",
+          "Teeth",
+          "Respiratory System",
+          "Brain Function",
+          "Nervous System"
+        ],
+        "emotional": [
+          "Mental Clarity",
+          "Focus",
+          "Learning Enhancement",
+          "Concentration"
+        ],
+        "spiritual": [
+          "Psychic Protection",
+          "Spiritual Grounding",
+          "Meditation Enhancement"
+        ]
+      },
+      "meditationUses": [
+        "Mental Focus",
+        "Learning Enhancement",
+        "Spiritual Protection",
+        "Clarity Seeking",
+        "Decision Making"
+      ],
+      "affirmations": [
+        "My mind is clear and focused",
+        "I make decisions with wisdom",
+        "I learn and grow with ease"
+      ],
+      "usageInstructions": [
+        "Place on desk while studying to enhance concentration and learning",
+        "Hold in non-dominant hand during meditation for mental clarity",
+        "Keep in office space to improve decision-making abilities",
+        "Wear as pendant when taking exams or tests",
+        "Place near computer to reduce mental fatigue from screen time",
+        "Use different colors for specific chakras (purple for crown, green for heart)",
+        "Keep in children's study area to help with focus and learning"
+      ],
+      "imageUri": "https://example.com/images/fluorite.jpg"
+    },
+    {
+      "id": "hematite-01",
+      "name": "Hematite",
+      "description": "Hematite is a very grounding and protecting stone. It strengthens our connection with the earth, making us feel safe and secure. It endows courage, strength, endurance.",
+      "properties": ["Grounding", "Protection", "Courage", "Strength", "Focus"],
+      "chakras": ["Root"],
+      "element": "Earth",
+      "zodiac": ["Aries", "Aquarius"],
+      "hardness": 6.5,
+      "color": "Metallic Gray",
+      "healingProperties": {
+        "physical": [
+          "Blood Circulation",
+          "Iron Absorption",
+          "Leg Cramps",
+          "Kidney Function",
+          "Regeneration"
+        ],
+        "emotional": [
+          "Self-Esteem",
+          "Willpower",
+          "Confidence",
+          "Memory Enhancement"
+        ],
+        "spiritual": [
+          "Grounding",
+          "Manifestation",
+          "Earth Connection",
+          "Stability"
+        ]
+      },
+      "meditationUses": [
+        "Grounding Practice",
+        "Root Chakra Healing",
+        "Earth Connection",
+        "Strength Building",
+        "Focus Enhancement"
+      ],
+      "affirmations": [
+        "I am grounded and stable",
+        "I have the strength to overcome challenges",
+        "I am connected to the earth"
+      ],
+      "usageInstructions": [
+        "Hold in each hand during meditation for powerful grounding",
+        "Wear as bracelet or ring to stay grounded throughout the day",
+        "Place on root chakra during energy work for stability",
+        "Keep in pockets when feeling scattered or uncentered",
+        "Use as worry stones by rubbing when feeling anxious",
+        "Place around home foundation for grounding and protection",
+        "Carry during times of change to maintain stability and focus"
+      ],
+      "imageUri": "https://example.com/images/hematite.jpg"
+    },
+    {
+      "id": "carnelian-01",
+      "name": "Carnelian",
+      "description": "A stabilising stone, Carnelian restores vitality and motivation, and stimulates creativity. It gives courage, promotes positive life choices, dispels apathy.",
+      "properties": [
+        "Vitality",
+        "Motivation",
+        "Creativity",
+        "Courage",
+        "Confidence"
+      ],
+      "chakras": ["Sacral", "Root"],
+      "element": "Fire",
+      "zodiac": ["Taurus", "Cancer", "Leo", "Virgo"],
+      "hardness": 7,
+      "color": "Orange-Red",
+      "healingProperties": {
+        "physical": [
+          "Reproduction",
+          "Lower Back",
+          "Arthritis",
+          "Kidney Stones",
+          "Vitamin Absorption"
+        ],
+        "emotional": [
+          "Motivation",
+          "Courage",
+          "Positive Life Choices",
+          "Confidence Building"
+        ],
+        "spiritual": [
+          "Manifestation",
+          "Life Force Energy",
+          "Creativity",
+          "Passion"
+        ]
+      },
+      "meditationUses": [
+        "Sacral Chakra Healing",
+        "Creativity Enhancement",
+        "Motivation Building",
+        "Passion Ignition",
+        "Courage Development"
+      ],
+      "affirmations": [
+        "I am motivated and driven",
+        "My creativity flows freely",
+        "I have the courage to pursue my dreams"
+      ],
+      "usageInstructions": [
+        "Wear as jewelry to boost confidence and personal power",
+        "Place on sacral chakra during meditation to enhance creativity",
+        "Keep on desk or in workspace to increase motivation and productivity",
+        "Hold before public speaking or presentations for courage",
+        "Place near workout area to boost physical energy and vitality",
+        "Carry when starting new projects or ventures",
+        "Keep in creative spaces like art studios to inspire artistic expression"
+      ],
+      "imageUri": "https://example.com/images/carnelian.jpg"
+    },
+    {
+      "id": "turquoise-01",
+      "name": "Turquoise",
+      "description": "Turquoise is a purification stone. It dispels negative energy and can be worn to protect against outside influences or pollutants in the atmosphere.",
+      "properties": [
+        "Purification",
+        "Protection",
+        "Communication",
+        "Healing",
+        "Wisdom"
+      ],
+      "chakras": ["Throat", "Heart"],
+      "element": "Earth",
+      "zodiac": ["Scorpio", "Sagittarius", "Aquarius"],
+      "hardness": 6,
+      "color": "Blue-Green",
+      "healingProperties": {
+        "physical": [
+          "Immune System",
+          "Respiratory System",
+          "Throat",
+          "Allergies",
+          "Viral Infections"
+        ],
+        "emotional": [
+          "Communication",
+          "Emotional Balance",
+          "Friendship",
+          "Love"
+        ],
+        "spiritual": [
+          "Spiritual Attunement",
+          "Wisdom",
+          "Protection",
+          "Purification"
+        ]
+      },
+      "meditationUses": [
+        "Throat Chakra Opening",
+        "Communication Enhancement",
+        "Purification Rituals",
+        "Protection Work",
+        "Wisdom Seeking"
+      ],
+      "affirmations": [
+        "I communicate with clarity and truth",
+        "I am protected by divine love",
+        "My spirit is pure and wise"
+      ],
+      "usageInstructions": [
+        "Wear as necklace close to throat chakra for clear communication",
+        "Keep in purse or pocket for protection while traveling",
+        "Place on throat chakra during meditation for healing vocal expression",
+        "Wear as ring to attract friendship and love",
+        "Keep in home for protection against negative environmental energies",
+        "Hold during difficult conversations to promote understanding",
+        "Place in workspace to enhance wisdom and decision-making"
+      ],
+      "imageUri": "https://example.com/images/turquoise.jpg"
+    },
+    {
+      "id": "garnet-01",
+      "name": "Garnet",
+      "description": "Garnet revitalises, purifies and balances energy, bringing serenity or passion as appropriate. It inspires love and devotion, balancing the sex drive.",
+      "properties": [
+        "Passion",
+        "Energy",
+        "Devotion",
+        "Balance",
+        "Regeneration"
+      ],
+      "chakras": ["Root", "Heart"],
+      "element": "Fire",
+      "zodiac": ["Leo", "Virgo", "Capricorn", "Aquarius"],
+      "hardness": 7.5,
+      "color": "Deep Red",
+      "healingProperties": {
+        "physical": [
+          "Blood Flow",
+          "Heart Health",
+          "Regeneration",
+          "Metabolism",
+          "Spine"
+        ],
+        "emotional": [
+          "Passion",
+          "Love",
+          "Devotion",
+          "Self-Confidence",
+          "Success"
+        ],
+        "spiritual": ["Manifestation", "Grounding", "Protection", "Commitment"]
+      },
+      "meditationUses": [
+        "Passion Ignition",
+        "Root Chakra Strengthening",
+        "Energy Revitalization",
+        "Commitment Deepening",
+        "Manifestation Work"
+      ],
+      "affirmations": [
+        "I am passionate about my life",
+        "My energy is balanced and strong",
+        "I am committed to my highest good"
+      ],
+      "usageInstructions": [
+        "Wear as jewelry to enhance passion and attract love",
+        "Place on root chakra during meditation for grounding and energy",
+        "Keep in bedroom to enhance intimacy and commitment",
+        "Carry when feeling low energy to revitalize and energize",
+        "Place in workspace to boost motivation and success",
+        "Hold during goal-setting sessions to enhance manifestation",
+        "Wear as ring to strengthen willpower and determination"
+      ],
+      "imageUri": "https://example.com/images/garnet.jpg"
+    },
+    {
+      "id": "amazonite-01",
+      "name": "Amazonite",
+      "description": "Amazonite is a soothing stone. It calms the brain and nervous system and aids in maintaining optimum health. It balances the masculine and feminine energies.",
+      "properties": [
+        "Soothing",
+        "Balance",
+        "Truth",
+        "Communication",
+        "Harmony"
+      ],
+      "chakras": ["Heart", "Throat"],
+      "element": "Water",
+      "zodiac": ["Virgo"],
+      "hardness": 6.5,
+      "color": "Blue-Green",
+      "healingProperties": {
+        "physical": [
+          "Nervous System",
+          "Brain Health",
+          "Osteoporosis",
+          "Tooth Decay",
+          "Calcium Deficiency"
+        ],
+        "emotional": [
+          "Emotional Trauma",
+          "Worry",
+          "Fear",
+          "Aggravation",
+          "Universal Love"
+        ],
+        "spiritual": [
+          "Truth Seeking",
+          "Honor",
+          "Communication",
+          "Masculine/Feminine Balance"
+        ]
+      },
+      "meditationUses": [
+        "Emotional Healing",
+        "Truth Discovery",
+        "Heart-Throat Connection",
+        "Balance Restoration",
+        "Calm Cultivation"
+      ],
+      "affirmations": [
+        "I speak and live my truth",
+        "I am balanced in all aspects",
+        "My heart and mind are in harmony"
+      ],
+      "usageInstructions": [
+        "Wear as necklace to balance heart and throat chakras",
+        "Hold during meditation to calm nervous system and reduce stress",
+        "Place on throat chakra to enhance truthful communication",
+        "Keep by bedside to reduce worry and promote peaceful sleep",
+        "Carry when dealing with confrontation to maintain calm energy",
+        "Place in workspace to balance masculine and feminine energies",
+        "Use during emotional healing work to release trauma and fear"
+      ],
+      "imageUri": "https://example.com/images/amazonite.jpg"
+    },
+    {
+      "id": "lepidolite-01",
+      "name": "Lepidolite",
+      "description": "Lepidolite is extremely useful in the reduction of stress and depression. It halts obsessive thoughts, relieves despondency and overcomes insomnia.",
+      "properties": [
+        "Stress Relief",
+        "Calming",
+        "Depression Relief",
+        "Sleep",
+        "Emotional Balance"
+      ],
+      "chakras": ["Third Eye", "Crown"],
+      "element": "Water",
+      "zodiac": ["Libra"],
+      "hardness": 2.5,
+      "color": "Lilac",
+      "healingProperties": {
+        "physical": [
+          "Insomnia",
+          "Alzheimer's",
+          "Bipolar Disorder",
+          "Anorexia",
+          "Joint Pain"
+        ],
+        "emotional": [
+          "Depression",
+          "Stress",
+          "Anxiety",
+          "Obsessive Thoughts",
+          "Emotional Balance"
+        ],
+        "spiritual": [
+          "Spiritual Transition",
+          "Higher Self Connection",
+          "Cosmic Awareness"
+        ]
+      },
+      "meditationUses": [
+        "Stress Reduction",
+        "Sleep Preparation",
+        "Emotional Balancing",
+        "Crown Chakra Healing",
+        "Peace Cultivation"
+      ],
+      "affirmations": [
+        "I am calm and at peace",
+        "I release all stress and worry",
+        "My mind is clear and tranquil"
+      ],
+      "usageInstructions": [
+        "Place under pillow to combat insomnia and promote restful sleep",
+        "Hold during meditation to reduce stress and anxiety",
+        "Keep by bedside to calm obsessive thoughts before sleep",
+        "Carry in pocket during stressful situations for emotional balance",
+        "Place on third eye chakra during meditation for mental clarity",
+        "Use in bath water for deep relaxation (ensure stone is safe for water)",
+        "Keep in workspace to maintain calm during high-pressure situations"
+      ],
+      "imageUri": "https://example.com/images/lepidolite.jpg"
+    },
+    {
+      "id": "moldavite-01",
+      "name": "Moldavite",
+      "description": "Moldavite is a stone of rapid spiritual evolution. It enhances the vibration of other stones and can greatly accelerate spiritual awakening and transformation.",
+      "properties": [
+        "Transformation",
+        "Spiritual Evolution",
+        "Awakening",
+        "High Vibration",
+        "Acceleration"
+      ],
+      "chakras": ["All", "Especially Crown and Third Eye"],
+      "element": "Storm",
+      "zodiac": ["All"],
+      "hardness": 5.5,
+      "color": "Green",
+      "healingProperties": {
+        "physical": [
+          "Cellular Memory",
+          "DNA Activation",
+          "Healing Crisis",
+          "Energy Alignment"
+        ],
+        "emotional": [
+          "Rapid Change",
+          "Breaking Patterns",
+          "Emotional Release",
+          "Courage for Change"
+        ],
+        "spiritual": [
+          "Spiritual Awakening",
+          "Cosmic Consciousness",
+          "Interdimensional Travel",
+          "Rapid Evolution"
+        ]
+      },
+      "meditationUses": [
+        "Spiritual Awakening",
+        "Consciousness Expansion",
+        "Transformation Work",
+        "Higher Realm Connection",
+        "Rapid Evolution"
+      ],
+      "affirmations": [
+        "I embrace rapid spiritual growth",
+        "I am ready for transformation",
+        "I trust my spiritual evolution"
+      ],
+      "usageInstructions": [
+        "Hold briefly during meditation (start with short sessions due to intensity)",
+        "Wear as small pendant for gradual spiritual awakening",
+        "Place on crown chakra for consciousness expansion (use with caution)",
+        "Keep nearby other crystals to amplify their energies",
+        "Use only when ready for significant life changes",
+        "Combine with grounding stones like hematite for balance",
+        "Start with indirect contact (near body) before direct skin contact"
+      ],
+      "imageUri": "https://example.com/images/moldavite.jpg"
+    },
+    {
+      "id": "pyrite-01",
+      "name": "Pyrite",
+      "description": "Pyrite is a powerful protection stone which shields and protects against all forms of negative vibrations and/or energy. It stimulates the intellect and enhances memory.",
+      "properties": [
+        "Protection",
+        "Confidence",
+        "Manifestation",
+        "Willpower",
+        "Abundance"
+      ],
+      "chakras": ["Solar Plexus"],
+      "element": "Earth",
+      "zodiac": ["Leo"],
+      "hardness": 6.5,
+      "color": "Metallic Gold",
+      "healingProperties": {
+        "physical": [
+          "Circulation",
+          "Respiratory System",
+          "Oxygen Supply",
+          "Stamina",
+          "Vitality"
+        ],
+        "emotional": [
+          "Confidence",
+          "Assertiveness",
+          "Self-Worth",
+          "Leadership",
+          "Memory"
+        ],
+        "spiritual": ["Manifestation", "Will Power", "Protection", "Grounding"]
+      },
+      "meditationUses": [
+        "Confidence Building",
+        "Manifestation Work",
+        "Solar Plexus Healing",
+        "Protection Rituals",
+        "Abundance Attraction"
+      ],
+      "affirmations": [
+        "I am confident and capable",
+        "I manifest abundance easily",
+        "I am protected by golden light"
+      ],
+      "usageInstructions": [
+        "Keep in workspace or office to attract wealth and success",
+        "Place in wealth corner of home (far left from entrance) for prosperity",
+        "Carry during job interviews to boost confidence and charisma",
+        "Hold during manifestation work to amplify intentions",
+        "Wear as jewelry to maintain confident energy throughout the day",
+        "Place on solar plexus chakra during meditation for personal power",
+        "Keep near computers to shield from electromagnetic radiation"
+      ],
+      "imageUri": "https://example.com/images/pyrite.jpg"
+    },
+    {
+      "id": "malachite-01",
+      "name": "Malachite",
+      "description": "Malachite is a stone of transformation. It encourages risk-taking and change, breaks unwanted ties and outworn patterns, and teaches how to take responsibility.",
+      "properties": [
+        "Transformation",
+        "Change",
+        "Protection",
+        "Healing",
+        "Growth"
+      ],
+      "chakras": ["Heart", "Throat"],
+      "element": "Fire",
+      "zodiac": ["Scorpio", "Capricorn"],
+      "hardness": 4,
+      "color": "Bright Green",
+      "healingProperties": {
+        "physical": [
+          "Arthritis",
+          "Epilepsy",
+          "Fractures",
+          "Swollen Joints",
+          "Tumors"
+        ],
+        "emotional": [
+          "Emotional Healing",
+          "Trauma Release",
+          "Depression",
+          "Anxiety"
+        ],
+        "spiritual": [
+          "Transformation",
+          "Spiritual Evolution",
+          "Psychic Protection",
+          "Scrying"
+        ]
+      },
+      "meditationUses": [
+        "Transformation Work",
+        "Heart Healing",
+        "Pattern Breaking",
+        "Protection Visualization",
+        "Change Acceptance"
+      ],
+      "affirmations": [
+        "I embrace positive change",
+        "I am protected during transformation",
+        "I release what no longer serves me"
+      ],
+      "usageInstructions": [
+        "Hold during therapy or healing sessions for emotional release",
+        "Place on heart chakra during meditation for trauma healing",
+        "Wear as jewelry for protection during times of change",
+        "Keep in home to absorb negative energies (cleanse frequently)",
+        "Use during scrying or divination practices for insight",
+        "Carry when breaking bad habits or patterns",
+        "Place near sick person's bed for healing support (handle with care - toxic if ingested)"
+      ],
+      "imageUri": "https://example.com/images/malachite.jpg"
+    },
+    {
+      "id": "aquamarine-01",
+      "name": "Aquamarine",
+      "description": "Aquamarine is a stone of courage. Its calming energies reduce stress and quiet the mind. It has an affinity with sensitive people.",
+      "properties": [
+        "Courage",
+        "Communication",
+        "Calming",
+        "Clarity",
+        "Spiritual Awareness"
+      ],
+      "chakras": ["Throat"],
+      "element": "Water",
+      "zodiac": ["Aries", "Gemini", "Pisces"],
+      "hardness": 7.5,
+      "color": "Blue",
+      "healingProperties": {
+        "physical": ["Throat", "Thyroid", "Pituitary Gland", "Eyes", "Jaw"],
+        "emotional": [
+          "Stress Relief",
+          "Fear Release",
+          "Phobias",
+          "Communication"
+        ],
+        "spiritual": [
+          "Spiritual Awareness",
+          "Meditation Enhancement",
+          "Clairvoyance"
+        ]
+      },
+      "meditationUses": [
+        "Throat Chakra Opening",
+        "Communication Enhancement",
+        "Courage Building",
+        "Stress Relief",
+        "Spiritual Clarity"
+      ],
+      "affirmations": [
+        "I communicate with courage and clarity",
+        "I am calm and centered",
+        "My voice carries truth and wisdom"
+      ],
+      "usageInstructions": [
+        "Wear as necklace to enhance clear communication and reduce fear",
+        "Hold before public speaking or important presentations",
+        "Place on throat chakra during meditation for healing vocal expression",
+        "Keep in meditation space for enhanced spiritual awareness",
+        "Carry when traveling over water for protection",
+        "Use during breathing exercises to calm stress and anxiety",
+        "Place near work area to promote courage in decision-making"
+      ],
+      "imageUri": "https://example.com/images/aquamarine.jpg"
+    },
+    {
+      "id": "obsidian-01",
+      "name": "Black Obsidian",
+      "description": "Black Obsidian is a very powerful and creative stone. It grounds the soul and spiritual forces into the physical plane, bringing them under the direction of the conscious will.",
+      "properties": ["Protection", "Grounding", "Truth", "Healing", "Scrying"],
+      "chakras": ["Root"],
+      "element": "Earth",
+      "zodiac": ["Scorpio", "Sagittarius"],
+      "hardness": 5,
+      "color": "Black",
+      "healingProperties": {
+        "physical": [
+          "Digestion",
+          "Detoxification",
+          "Arthritis",
+          "Joint Pain",
+          "Cramps"
+        ],
+        "emotional": [
+          "Emotional Blockages",
+          "Trauma Healing",
+          "Negative Patterns",
+          "Shock"
+        ],
+        "spiritual": [
+          "Psychic Protection",
+          "Grounding",
+          "Truth Revelation",
+          "Scrying"
+        ]
+      },
+      "meditationUses": [
+        "Shadow Work",
+        "Grounding Practice",
+        "Truth Seeking",
+        "Protection Visualization",
+        "Root Chakra Healing"
+      ],
+      "affirmations": [
+        "I face my shadows with courage",
+        "I am grounded in truth",
+        "I am protected by divine light"
+      ],
+      "usageInstructions": [
+        "Use as scrying mirror for divination and truth seeking",
+        "Place at home entrance for powerful protection against negativity",
+        "Hold during shadow work and deep self-reflection",
+        "Wear as jewelry for grounding and psychic protection",
+        "Place on root chakra during meditation for earth connection",
+        "Keep in pocket when facing difficult truths or situations",
+        "Use in conjunction with lighter stones to balance intense energy"
+      ],
+      "imageUri": "https://example.com/images/obsidian.jpg"
+    },
+    {
+      "id": "prehnite-01",
+      "name": "Prehnite",
+      "description": "Prehnite is a stone of unconditional love and the crystal to heal the healer. It enhances precognition and inner knowing, enabling you to always be prepared.",
+      "properties": [
+        "Unconditional Love",
+        "Healing",
+        "Precognition",
+        "Inner Knowing",
+        "Peace"
+      ],
+      "chakras": ["Heart", "Solar Plexus"],
+      "element": "Earth",
+      "zodiac": ["Libra"],
+      "hardness": 6.5,
+      "color": "Pale Green",
+      "healingProperties": {
+        "physical": [
+          "Kidneys",
+          "Bladder",
+          "Thymus Gland",
+          "Shoulders",
+          "Chest"
+        ],
+        "emotional": [
+          "Unconditional Love",
+          "Inner Peace",
+          "Calm",
+          "Protection"
+        ],
+        "spiritual": [
+          "Precognition",
+          "Prophecy",
+          "Inner Knowing",
+          "Spiritual Communication"
+        ]
+      },
+      "meditationUses": [
+        "Heart Healing",
+        "Precognitive Development",
+        "Inner Peace",
+        "Unconditional Love",
+        "Spiritual Preparation"
+      ],
+      "affirmations": [
+        "I love unconditionally",
+        "I trust my inner knowing",
+        "I am always prepared"
+      ],
+      "usageInstructions": [
+        "Hold during meditation to develop precognitive abilities",
+        "Place on heart chakra for unconditional love and healing",
+        "Keep by bedside to enhance prophetic dreams",
+        "Wear as jewelry for healers to prevent energy drain",
+        "Place in healing rooms to enhance therapeutic work",
+        "Carry when needing to prepare for unknown situations",
+        "Use in combination with other heart chakra stones for deeper healing"
+      ],
+      "imageUri": "https://example.com/images/prehnite.jpg"
+    },
+    {
+      "id": "sunstone-01",
+      "name": "Sunstone",
+      "description": "Sunstone is a joyful, light-inspiring stone. It instills joie de vivre and allows the real self to shine through happily. It dissipates fearfulness and stress.",
+      "properties": [
+        "Joy",
+        "Leadership",
+        "Personal Power",
+        "Freedom",
+        "Originality"
+      ],
+      "chakras": ["Solar Plexus", "Sacral"],
+      "element": "Fire",
+      "zodiac": ["Leo", "Libra"],
+      "hardness": 6.5,
+      "color": "Orange with sparkles",
+      "healingProperties": {
+        "physical": [
+          "Seasonal Affective Disorder",
+          "Depression",
+          "Stomach",
+          "Ulcers",
+          "Cartilage"
+        ],
+        "emotional": [
+          "Self-Worth",
+          "Confidence",
+          "Optimism",
+          "Enthusiasm",
+          "Independence"
+        ],
+        "spiritual": [
+          "Personal Power",
+          "Leadership",
+          "Abundance",
+          "Good Fortune"
+        ]
+      },
+      "meditationUses": [
+        "Joy Cultivation",
+        "Solar Plexus Activation",
+        "Personal Power",
+        "Leadership Development",
+        "Confidence Building"
+      ],
+      "affirmations": [
+        "I shine my light brightly",
+        "I am joyful and optimistic",
+        "I embrace my personal power"
+      ],
+      "usageInstructions": [
+        "Wear as jewelry to boost self-confidence and personal power",
+        "Place on solar plexus chakra during meditation for joy and vitality",
+        "Keep in living spaces to bring joy and positive energy",
+        "Carry during winter months to combat seasonal depression",
+        "Hold during leadership activities to enhance charisma",
+        "Place in workspace to encourage originality and independence",
+        "Use in sunlight meditation to amplify solar energy properties"
+      ],
+      "imageUri": "https://example.com/images/sunstone.jpg"
+    }
+  ]
+}
