@@ -82,7 +82,9 @@
         "Place on desk or workspace to improve mental clarity",
         "Use in crystal grids for protection and spiritual growth"
       ],
-      "imageUri": "https://example.com/images/amethyst-01.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/amethyst-01.jpg"
+      ]
     },
     {
       "id": "rose-quartz-02",
@@ -165,7 +167,9 @@
         "Use in bath water for emotional cleansing.",
         "Carry rose quartz crystal every day to promote self-love, wellbeing, and peace."
       ],
-      "imageUri": "https://example.com/images/rose-quartz-02.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/rosequartz-01.jpg"
+      ]
     },
     {
       "id": "citrine-03",
@@ -277,7 +281,10 @@
         "Hold while setting financial goals and abundance intentions or any affirmation.",
         "Place near water sources in the home in bathrooms and kitchens, by toilets, to cleanse and maintain flow."
       ],
-      "imageUri": "https://example.com/images/citrine-03.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/citrine-01.jpg",
+        "https://ksarpash.github.io/CrystalAI/images/citrine-02.jpg"
+      ]
     },
     {
       "id": "black-tourmaline-04",
@@ -368,7 +375,9 @@
         "Place under bed to protect against nightmares and negative dreams.",
         "Meditate with it for grounding or emotional clearing."
       ],
-      "imageUri": "https://example.com/images/black-tourmaline-04.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/black-tourmaline-01.jpg"
+      ]
     },
     {
       "id": "labradorite-05",
@@ -461,7 +470,9 @@
         "Carry when going through major life changes for support.",
         "Place in bedroom to enhance dream-recall and lucid dreaming."
       ],
-      "imageUri": "https://example.com/images/labradorite-05.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/labradorite-01.jpg"
+      ]
     },
     {
       "id": "selenite-06",
@@ -558,7 +569,9 @@
         "Do NOT put in water as selenite will dissolve – place outside in moonlight to cleanse and charge.",
         "Use selenite wands or slabs to help cleanse and charge other crystals."
       ],
-      "imageUri": "https://example.com/images/selenite-06.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/selenite-01.jpg"
+      ]
     },
     {
       "id": "lapis-lazuli-07",
@@ -645,7 +658,10 @@
         "Place on third eye chakra to enhance intuitive insights.",
         "Carry when needing to make important decisions."
       ],
-      "imageUri": "https://example.com/images/lapis-lazuli-07.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/lapis-lazuli-01.jpg",
+        "https://ksarpash.github.io/CrystalAI/images/lapis-lazuli-02.jpg"
+      ]
     },
     {
       "id": "green-aventurine-08",
@@ -739,7 +755,9 @@
         "Use in grids to develop prosperity and draw in wealth and success.",
         "Place on heart chakra during meditation for emotional healing."
       ],
-      "imageUri": "https://example.com/images/green-aventurine-08.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/green-aventurine-01.jpg"
+      ]
     },
     {
       "id": "sodalite-09",
@@ -834,7 +852,11 @@
         "Keep by bedside to encourage calmness and promote sleep.",
         "Use in grids to solidify your purpose and goals."
       ],
-      "imageUri": "https://example.com/images/sodalite-09.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/sodalite-01.jpg",
+        "https://ksarpash.github.io/CrystalAI/images/sodalite-02.jpg",
+        "https://ksarpash.github.io/CrystalAI/images/sodalite-03.jpg"
+      ]
     },
     {
       "id": "moonstone-10",
@@ -934,7 +956,10 @@
         "Hold in meditation to connect to Divine Inspiration.",
         "Moonstone is stronger during a waxing moon and less so during a waning moon."
       ],
-      "imageUri": "https://example.com/images/moonstone-10.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/moonstone-01.jpg",
+        "https://ksarpash.github.io/CrystalAI/images/moonstone-02.jpg"
+      ]
     },
     {
       "id": "fluorite-11",
@@ -1039,7 +1064,9 @@
         "Keep in office space to improve decision-making abilities.",
         "Wear or carry to help through challenging situations to encourage positive flow."
       ],
-      "imageUri": "https://example.com/images/fluorite-11.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/fluorite-01.jpg"
+      ]
     },
     {
       "id": "hematite-12",
@@ -1127,7 +1154,9 @@
         "Use as worry stones by holding/rubbing when feeling anxious.",
         "Carry during times of change to maintain stability and focus."
       ],
-      "imageUri": "https://example.com/images/hematite-12.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/hematite-01.jpg"
+      ]
     },
     {
       "id": "carnelian-13",
@@ -1223,7 +1252,10 @@
         "Carry when starting new projects or ventures.",
         "Keep in creative spaces like art studios to inspire artistic expression."
       ],
-      "imageUri": "https://example.com/images/carnelian-13.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/carnelian-01.jpg",
+        "https://ksarpash.github.io/CrystalAI/images/carnelian-02.jpg"
+      ]
     },
     {
       "id": "turquoise-14",
@@ -1318,7 +1350,9 @@
         "Hold during difficult conversations to promote understanding.",
         "Place beside or underneath the bed to help with bereavement."
       ],
-      "imageUri": "https://example.com/images/turquoise-14.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/turquoise-01.jpg"
+      ]
     },
     {
       "id": "garnet-15",
@@ -1401,7 +1435,9 @@
         "Hold during goal-setting sessions to enhance manifestation.",
         "Wear as ring to strengthen willpower and determination."
       ],
-      "imageUri": "https://example.com/images/garnet-15.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/red-garnet-01.jpg"
+      ]
     },
     {
       "id": "amazonite-16",
@@ -1491,7 +1527,9 @@
         "Place in workspace to balance masculine and feminine energies.",
         "Use during emotional healing work to release trauma and fear."
       ],
-      "imageUri": "https://example.com/images/amazonite-16.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/amazonite-01.jpg"
+      ]
     },
     {
       "id": "pyrite-17",
@@ -1574,7 +1612,7 @@
         "Place on solar plexus chakra during meditation for developing personal power and confidence.",
         "Use in meetings or workspace / office where diplomacy and cooperation are needed."
       ],
-      "imageUri": "https://example.com/images/pyrite-17.jpg"
+      "imageUris": ["https://ksarpash.github.io/CrystalAI/images/pyrite-01.jpg"]
     },
     {
       "id": "malachite-18",
@@ -1669,7 +1707,9 @@
         "Keep in home to absorb negative energies (cleanse frequently).",
         "Place near plants and vegetables to Light-charge."
       ],
-      "imageUri": "https://example.com/images/malachite-18.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/malachite-01.jpg"
+      ]
     },
     {
       "id": "sunstone-19",
@@ -1753,7 +1793,9 @@
         "Hold during leadership activities for strength.",
         "Place in workspace to encourage originality and independence."
       ],
-      "imageUri": "https://example.com/images/sunstone-19.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/sunstone-01.jpg"
+      ]
     },
     {
       "id": "kyanite-20",
@@ -1849,7 +1891,7 @@
         "Place in workspaces to help with logical thinking, focus, and clarity.",
         "Hold or wear when communication needs to be strengthened or enhanced."
       ],
-      "imageUri": "https://example.com/images/kyanite-20.jpg"
+      "imageUris": []
     },
     {
       "id": "aquamarine-21",
@@ -1941,7 +1983,9 @@
         "Use during breathing exercises to calm stress and anxiety.",
         "Place near work area to promote courage in decision-making."
       ],
-      "imageUri": "https://example.com/images/aquamarine-21.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/aquamarine-01.jpg"
+      ]
     },
     {
       "id": "abalone-22",
@@ -2032,7 +2076,9 @@
         "Use in meditation to open and balance the heart chakra and/or to calm overactive thoughts.",
         "Place in living spaces to encourage tranquillity, peace, love, and harmony."
       ],
-      "imageUri": "https://example.com/images/abalone-22.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/abalone-01.jpg"
+      ]
     },
     {
       "id": "ametrine-23",
@@ -2153,7 +2199,7 @@
         "Place in workspace to help stimulate creativity or to help with logical thinking.",
         "Hold to cleanse the aura of negativity."
       ],
-      "imageUri": "https://example.com/images/ametrine-23.jpg"
+      "imageUris": []
     },
     {
       "id": "black-obsidian-24",
@@ -2231,7 +2277,9 @@
         "Use in shadow work for self-awareness and acceptance.",
         "Place near digestive area (solar plexus) to help with digestion of difficult emotions or ideas."
       ],
-      "imageUri": "https://example.com/images/black-obsidian-24.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/black-obsidian-01.jpg"
+      ]
     },
     {
       "id": "rhodochrosite-25",
@@ -2315,7 +2363,9 @@
         "Carry to improve mood and bring positivity.",
         "Place in meditation or healing spaces to promote emotional balance and peace."
       ],
-      "imageUri": "https://example.com/images/rhodochrosite-25.jpg"
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/rhodochrosite-01.jpg"
+      ]
     }
   ]
 }
