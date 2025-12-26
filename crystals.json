@@ -22,7 +22,7 @@
         "Energy Balance"
       ],
       "chakras": ["Crown", "Third Eye", "Solar Plexus"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Pisces", "Virgo", "Aquarius", "Capricorn"],
       "hardness": 7,
       "color": "Purple",
@@ -98,7 +98,7 @@
         "Harmony"
       ],
       "chakras": ["Heart"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Taurus", "Libra"],
       "hardness": 7,
       "color": "Pink",
@@ -194,7 +194,7 @@
         "Environmental Cleanser"
       ],
       "chakras": ["Solar Plexus", "Sacral"],
-      "element": "Fire",
+      "elements": ["Fire"],
       "zodiac": ["Gemini", "Aries", "Libra", "Leo"],
       "hardness": 7,
       "color": "Yellow",
@@ -307,7 +307,7 @@
         "Pain Relief"
       ],
       "chakras": ["Root/Base"],
-      "element": "Earth",
+      "elements": ["Earth"],
       "zodiac": ["Capricorn", "Scorpio", "Libra"],
       "hardness": 7.5,
       "color": "Black",
@@ -398,7 +398,7 @@
         "Aura Cleansing"
       ],
       "chakras": ["Third Eye", "Crown"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Leo", "Scorpio", "Sagittarius"],
       "hardness": 6.5,
       "color": "Gray with Iridescent Flashes (blue, green, gold, yellow, rainbow etc)",
@@ -499,7 +499,7 @@
         "Flexibility"
       ],
       "chakras": ["Crown", "Soul Star", "Higher Crown"],
-      "element": "Spirit",
+      "elements": ["Spirit"],
       "zodiac": ["Taurus"],
       "hardness": 2,
       "color": "White",
@@ -595,7 +595,7 @@
         "Protection Against Psychic Attacks"
       ],
       "chakras": ["Third Eye", "Throat", "Crown"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Sagittarius", "Libra"],
       "hardness": 5.5,
       "color": "Deep Blue with Gold Flecks",
@@ -687,7 +687,7 @@
         "Blood Pressure"
       ],
       "chakras": ["Heart", "Sacral"],
-      "element": "Earth",
+      "elements": ["Earth"],
       "zodiac": ["Aries", "Leo"],
       "hardness": 7,
       "color": "Green",
@@ -785,7 +785,7 @@
         "Larynx"
       ],
       "chakras": ["Third Eye", "Throat"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Sagittarius"],
       "hardness": 6,
       "color": "Blue",
@@ -888,7 +888,7 @@
         "Fertility"
       ],
       "chakras": ["Sacral", "Third Eye", "Crown"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Cancer", "Libra", "Scorpio"],
       "hardness": 6.5,
       "color": "White (sometimes beige/brown colouring)",
@@ -993,7 +993,7 @@
         "Decision Making"
       ],
       "chakras": ["All (varies depending on colour)"],
-      "element": "Air",
+      "elements": ["Air"],
       "zodiac": ["Capricorn", "Pisces"],
       "hardness": 4,
       "color": "Varies (Purple, Green, White)",
@@ -1089,7 +1089,7 @@
         "Compulsions"
       ],
       "chakras": ["Base/Root"],
-      "element": "Earth",
+      "elements": ["Earth"],
       "zodiac": ["Aries", "Aquarius"],
       "hardness": 6,
       "color": "Metallic Gray",
@@ -1181,7 +1181,7 @@
         "Playfulness"
       ],
       "chakras": ["Sacral", "Base/Root"],
-      "element": "Fire",
+      "elements": ["Fire"],
       "zodiac": ["Taurus", "Cancer", "Leo", "Virgo"],
       "hardness": 7,
       "color": "Orange, reddish-brown",
@@ -1285,7 +1285,7 @@
         "Mood Swings"
       ],
       "chakras": ["Throat", "Third Eye", "Heart"],
-      "element": "Earth",
+      "elements": ["Earth"],
       "zodiac": ["Scorpio", "Sagittarius", "Aquarius"],
       "hardness": 6,
       "color": "Blue-Green, Turquoise",
@@ -1375,7 +1375,7 @@
         "Energises All Chakras"
       ],
       "chakras": ["Root/Base", "Heart (Energises All)"],
-      "element": "Fire",
+      "elements": ["Fire"],
       "zodiac": ["Leo", "Virgo", "Capricorn", "Aquarius"],
       "hardness": 7.5,
       "color": "Deep Red",
@@ -1459,7 +1459,7 @@
         "Healthy Boundaries"
       ],
       "chakras": ["Heart", "Throat"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Virgo"],
       "hardness": 6.5,
       "color": "Blue-Green",
@@ -1547,7 +1547,7 @@
         "Cooperation"
       ],
       "chakras": ["Solar Plexus"],
-      "element": "Earth",
+      "elements": ["Earth"],
       "zodiac": ["Leo"],
       "hardness": 6.5,
       "color": "Metallic Gold",
@@ -1634,7 +1634,7 @@
         "Growth"
       ],
       "chakras": ["Heart", "Throat"],
-      "element": "Fire",
+      "elements": ["Fire"],
       "zodiac": ["Scorpio", "Capricorn"],
       "hardness": 4,
       "color": "Bright Green",
@@ -1733,7 +1733,7 @@
         "Vitality"
       ],
       "chakras": ["Base/Root", "Sacral", "Solar Plexus"],
-      "element": "Fire",
+      "elements": ["Fire"],
       "zodiac": ["Leo", "Libra"],
       "hardness": 6,
       "color": "Orange with Sparkles",
@@ -1825,7 +1825,7 @@
         "Metaphysical Abilities"
       ],
       "chakras": ["Throat", "Third Eye", "Aligns All with Aura"],
-      "element": "Water, Air",
+      "elements": ["Water", "Air"],
       "zodiac": ["Aries", "Taurus", "Libra"],
       "hardness": 7,
       "color": "Blue",
@@ -1918,7 +1918,7 @@
         "Sore Throats"
       ],
       "chakras": ["Throat"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Aries", "Gemini", "Pisces"],
       "hardness": 7.5,
       "color": "Blue",
@@ -2017,7 +2017,7 @@
         "Gentle Tissue Healing"
       ],
       "chakras": ["Heart", "Throat", "Third Eye"],
-      "element": "Water",
+      "elements": ["Water"],
       "zodiac": ["Cancer", "Pisces", "Taurus"],
       "hardness": 4,
       "color": "Iridescent / Rainbow Shimmer",
@@ -2116,7 +2116,7 @@
         "Unites Masculine and Feminine Energies"
       ],
       "chakras": ["Third Eye", "Solar Plexus"],
-      "element": "Fire, Air",
+      "elements": ["Fire", "Air"],
       "zodiac": ["Libra"],
       "hardness": 7,
       "color": "Purple, Yellow",
@@ -2220,7 +2220,7 @@
         "Arthritis"
       ],
       "chakras": ["Base/Root"],
-      "element": "Earth",
+      "elements": ["Earth"],
       "zodiac": ["Scorpio", "Sagittarius"],
       "hardness": 5,
       "color": "Black, Glossy",
@@ -2300,7 +2300,7 @@
         "Integration of Physical and Spiritual Energies"
       ],
       "chakras": ["Heart", "Solar Plexus"],
-      "element": "Fire, Water",
+      "elements": "Fire, Water",
       "zodiac": ["Leo", "Scorpio"],
       "hardness": 4,
       "color": "Pink with White Bands",
@@ -2369,4 +2369,3 @@
     }
   ]
 }
-
