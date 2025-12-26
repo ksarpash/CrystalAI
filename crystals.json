@@ -2300,7 +2300,7 @@
         "Integration of Physical and Spiritual Energies"
       ],
       "chakras": ["Heart", "Solar Plexus"],
-      "elements": "Fire, Water",
+      "elements": ["Fire", "Water"],
       "zodiac": ["Leo", "Scorpio"],
       "hardness": 4,
       "color": "Pink with White Bands",
