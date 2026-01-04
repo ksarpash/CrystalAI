@@ -1,5 +1,5 @@
 {
-  "version": "1.25.1",
+  "version": "1.25.2",
   "crystals": [
     {
       "id": "amethyst-01",
@@ -2202,7 +2202,9 @@
         "Place in workspace to help stimulate creativity or to help with logical thinking.",
         "Hold to cleanse the aura of negativity."
       ],
-      "imageUris": []
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/ametrine-01.jpg"
+      ]
     },
     {
       "id": "black-obsidian-24",
@@ -2372,4 +2374,5 @@
     }
   ]
 }
+
 
