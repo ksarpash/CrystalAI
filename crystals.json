@@ -1,5 +1,5 @@
 {
-  "version": "1.25.0",
+  "version": "1.25.1",
   "crystals": [
     {
       "id": "amethyst-01",
@@ -1892,7 +1892,9 @@
         "Place in workspaces to help with logical thinking, focus, and clarity.",
         "Hold or wear when communication needs to be strengthened or enhanced."
       ],
-      "imageUris": []
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/kyanite-01.jpg"
+      ]
     },
     {
       "id": "aquamarine-21",
@@ -2370,3 +2372,4 @@
     }
   ]
 }
+
