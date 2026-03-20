@@ -1,5 +1,5 @@
 {
-  "version": "1.25.2",
+  "version": "1.40.0",
   "crystals": [
     {
       "id": "amethyst-01",
@@ -2371,8 +2371,1425 @@
       "imageUris": [
         "https://ksarpash.github.io/CrystalAI/images/rhodochrosite-01.jpg"
       ]
+    },
+    {
+      "id": "apache-tear-26",
+      "name": "Apache Tear",
+      "description": "Also called Apache Tear Obsidian as it is a small, rounded form of black Obsidian. Supports grief and emotional healing. Absolves pain and loss. Supportive and protective. This crystal releases negativity. It is grounding and stabilising. Associated with the base chakra. The Apache Tear has a comforting energy, helping to gently release and transmute the negative energy of pain and loss. It is said that this crystal got its name from the tears Native American women shed over their men.",
+      "properties": [
+        "Grief",
+        "Loss",
+        "Emotional pain",
+        "Emotional healing",
+        "Base chakra",
+        "Grounding",
+        "Absolves negative energies",
+        "Supportive",
+        "Protective",
+        "Protection",
+        "Support",
+        "Stabilising",
+        "Comforting",
+        "Transformation",
+        "Promotes forgiveness and insight",
+        "Bringing forth analytic capabilities",
+        "Overcoming limitations"
+      ],
+      "chakras": ["Base", "Sacral"],
+      "elements": ["Earth", "Fire"],
+      "zodiac": ["Aries", "Scorpio", "Capricorn", "Cancer"],
+      "hardness": 6,
+      "color": "Black (with occasional smoky brown to dark amber hues)",
+      "healingProperties": {
+        "physical": [
+          "Muscle spasm",
+          "Detoxification",
+          "Absorption of vitamin C",
+          "Pain relief",
+          "Headaches",
+          "Muscle tension",
+          "Stress",
+          "Supports liver",
+          "Immune support",
+          "Grounding during physical trauma",
+          "Healing support after illness or injury"
+        ],
+        "emotional": [
+          "Grief and loss support",
+          "Stability",
+          "Grounding",
+          "Emotional release",
+          "Comfort and reassurance",
+          "Emotional safety",
+          "Protection",
+          "Emotional resilience",
+          "Anxiety relief",
+          "Stress",
+          "Nurturing",
+          "Heartbreak support",
+          "Emotional exhaustion",
+          "Trauma"
+        ],
+        "spiritual": [
+          "Protects the aura",
+          "Releases negativity (base chakra)",
+          "Transmutation of negative energy",
+          "Removes self-limitations",
+          "Connects to the Earth",
+          "Balancing and grounding properties",
+          "Inner strength",
+          "Clears stagnant energy",
+          "Past-life work",
+          "Offers spiritual comfort and protection"
+        ]
+      },
+      "meditationUses": [
+        "Gentle grounding",
+        "Emotional release",
+        "Spiritual protection",
+        "Meditate to safely process sadness, loss, or emotional pain",
+        "Use for protection and safety",
+        "Base chakra work to encourage balance and grounding",
+        "Good for introspection",
+        "Forgiveness and analysing situations"
+      ],
+      "affirmations": [
+        "I forgive and let go.",
+        "I release my emotional pain.",
+        "I am safe and protected.",
+        "I honour my grief and allow peace to follow.",
+        "I am healing at my own pace.",
+        "I am supported and deeply loved."
+      ],
+      "usageInstructions": [
+        "Wear or carry for help with grief and emotional release.",
+        "Place on base chakra during meditation to encourage balance and security.",
+        "Use in meditation to help uncover your inner truths and work on forgiveness.",
+        "Place under pillow to help quiet the mind and settle emotions.",
+        "Hold to release tension headaches or stress."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/apache-tear-01.jpg"
+      ]
+    },
+    {
+      "id": "unakite-27",
+      "name": "Unakite",
+      "description": "Promotes unity between people, good for team spirit and difficult working relationships. This is the crystal for healing unresolved emotions and bringing people together in common unity. Harmonises and creates balance. Heart-centred growth, helping people release past patterns and stabilising them in the present. Keeping people grounded. Unifies people and helps dispel disharmony and overcoming challenging situations. Creates positive environments. Encourages patience and self-compassion, whilst dealing with issues, supporting personal growth and transformation. Helps regulate emotional extremes. Encourages letting go of unhelpful habits or beliefs, aligns emotional needs with practical action.",
+      "properties": [
+        "Harmony",
+        "Overcoming challenges",
+        "Relationships",
+        "Common unity",
+        "Unification",
+        "Unity",
+        "Dispels disharmony",
+        "Heart-centred growth",
+        "Grounded",
+        "Grounding",
+        "Release past negative patterns",
+        "Peace",
+        "Teamwork",
+        "Team spirit",
+        "Positive environments",
+        "Rebirth",
+        "Gentle change",
+        "Taking positive action",
+        "Letting go of unhelpful habits or beliefs",
+        "Nurturing",
+        "Stabilising",
+        "Aids recovery after major illness",
+        "Physical exhaustion",
+        "Reproductive system",
+        "Weight gain"
+      ],
+      "chakras": ["Third Eye", "Heart", "Sacral"],
+      "elements": ["Earth", "Water"],
+      "zodiac": ["Virgo", "Scorpio", "Taurus"],
+      "hardness": 6.5,
+      "color": "Mottled green and pink (or orange)",
+      "healingProperties": {
+        "physical": [
+          "Reproductive system",
+          "Skin",
+          "Tissue",
+          "Hair",
+          "Recovery after major illness or physical exhaustion",
+          "Gaining weight"
+        ],
+        "emotional": [
+          "Emotional balance",
+          "Inner calm",
+          "Giving new insight into emotional blockages",
+          "Mental clarity and growth",
+          "Balances emotions with spirituality",
+          "Team spirit and common unity",
+          "Peace and harmony",
+          "Stone of vision aiding understanding of the causes of emotional distress"
+        ],
+        "spiritual": [
+          "Opens third eye chakra",
+          "Heart-centred healing",
+          "Spiritual and psychological growth",
+          "Past-life healing",
+          "Brings things to the surface for release and gentle transformation",
+          "Balancing emotion with spirituality",
+          "Spiritual grounding"
+        ]
+      },
+      "meditationUses": [
+        "To open the third eye chakra",
+        "Aid mental clarity and insight",
+        "Allow emotional blockages to surface and be transmuted",
+        "For grounding and balancing emotions",
+        "To encourage common unity and strengthen teamwork",
+        "For heart-centred work, personal growth, and transformation",
+        "Strengthening spiritual connection",
+        "For peace and harmony"
+      ],
+      "affirmations": [
+        "I am aligned, grounded, and balanced in my body, mind, and spirit.",
+        "I open my heart to love, compassion, and forgiveness.",
+        "I am patient with myself and others.",
+        "I listen to myself and others.",
+        "I release any emotional wounds.",
+        "I encourage new energy to flow and heal.",
+        "I see what I need to see.",
+        "Peace flows through me."
+      ],
+      "usageInstructions": [
+        "Wear or carry for help with emotional release.",
+        "Wear or carry to aid recovery after illness or physical exhaustion.",
+        "Place on third eye chakra or hold during meditation for insight and opening.",
+        "Use in meditation to help bring to the surface emotional blockages.",
+        "Place in workspace or living area to encourage harmony and promote positive teamwork.",
+        "Program and give a crystal to all those within a team that needs to dispel disharmony, promote positivity, and work together."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/unakite-01.jpg"
+      ]
+    },
+    {
+      "id": "rutilated-quartz-28",
+      "name": "Rutilated Quartz",
+      "description": "Skeletal difficulties, aids in mending bones, bone weakness and disorders, torn tissues, muscles, immune system, thyroid, cell regeneration, helps with chronic conditions, promotes balance, gives strength for life's challenges, helps with letting go of the past and any barriers to spiritual growth, promotes forgiveness, soothes, and supports heavy mental energy, relieves fears, phobias, and anxiety, promoting self-love and care. Rutilated quartz embodies the properties of clear quartz as well and is therefore a strong powerful enhancer of energy and vibrational healing, increasing energy flow.",
+      "properties": [
+        "Skeletal difficulties",
+        "Aids in mending bones",
+        "Bone weakness and disorders",
+        "Torn tissues",
+        "Muscles",
+        "Immune system",
+        "Thyroid",
+        "Cell regeneration",
+        "Helps with chronic conditions",
+        "Promotes balance",
+        "Gives strength for life's challenges",
+        "Helps with letting go of the past",
+        "Barriers to spiritual growth",
+        "Promotes forgiveness",
+        "Soothes",
+        "Supports heavy mental energy",
+        "Relieves fears",
+        "Phobias",
+        "Anxiety",
+        "Promotes self-love and care"
+      ],
+      "chakras": ["All", "Aligns the aura"],
+      "elements": ["Air", "Fire"],
+      "zodiac": ["All"],
+      "hardness": 7,
+      "color": "Clear or transparent with golden, red, bronze, or black rutile inclusions",
+      "healingProperties": {
+        "physical": [
+          "Skeletal difficulties",
+          "Aids in mending bones",
+          "Bone weakness and disorders",
+          "Torn tissues",
+          "Muscles",
+          "Immune system",
+          "Thyroid",
+          "Cell regeneration",
+          "Helps with chronic conditions",
+          "Elasticity of blood vessels",
+          "Infertility",
+          "Sexual difficulties"
+        ],
+        "emotional": [
+          "Promotes forgiveness",
+          "Emotional release",
+          "Filters negative energy",
+          "Fears",
+          "Phobias",
+          "Anxiety",
+          "Dark moods",
+          "Encourages self-love and the release of negative thoughts",
+          "Promotes balance",
+          "Gives strength for life's challenges",
+          "Helps with letting go of the past",
+          "Encourages strength",
+          "Decisiveness"
+        ],
+        "spiritual": [
+          "Encourages spiritual development by removing barriers",
+          "Connects to soul lessons",
+          "Gets to the heart of a problem",
+          "Transmutes issues",
+          "Encourages forgiveness and letting go of the past",
+          "Energy amplifier",
+          "Spiritual insight",
+          "Illumination",
+          "Helps cut energetic cords that are unhelpful"
+        ]
+      },
+      "meditationUses": [
+        "Helps quiet mental noise and encourages clear thinking",
+        "Helps connect to the root of an issue or emotional blockage",
+        "Encourages protection when working through fears, anxiety, or phobias",
+        "Promotes balance",
+        "Letting go of the past and connecting to higher consciousness"
+      ],
+      "affirmations": [
+        "I am strong and protected.",
+        "I am free from past pain.",
+        "I love myself and nurture my spiritual growth.",
+        "I forgive myself and others.",
+        "I have clarity over my thoughts and take decisive actions.",
+        "My mind is clear, calm, and focused.",
+        "I am aligned with my highest path."
+      ],
+      "usageInstructions": [
+        "Wear, carry or tape to affected areas, for help healing broken bones, torn tissues, and muscles etc.",
+        "Wear or carry to aid with anxiety, fears, or phobias.",
+        "Use in meditation to encourage forgiveness at all levels.",
+        "Hold whilst doing focused inner work, journaling, or meditation to encourage mental clarity and the taking of decisive action."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/rutilated-quartz-01.jpg"
+      ]
+    },
+    {
+      "id": "smoky-quartz-29",
+      "name": "Smoky Quartz",
+      "description": "Brings a very grounding and stabilising energy, cleansing, removes negativity, helps with stress, headaches, and nerves, fear, and nightmares. Detoxifies at all levels, protects, promotes toleration, helps through difficult times, encourages 'letting go' of things you no longer need, cleansing to the base chakra, earth energies, releasing control patterns, good for concentration, pain relief, can aid depression, helps with life decisions. Absorbs environmental negative energies and electromagnetic smog. Karmic release.",
+      "properties": [
+        "Grounded",
+        "Grounding",
+        "Release control patterns",
+        "Concentration",
+        "Base chakra",
+        "Earth energies",
+        "Headaches",
+        "Nerves",
+        "Fear",
+        "Nightmares",
+        "Detoxifies",
+        "Absorbs negative energy",
+        "Depression",
+        "Stress",
+        "Heart",
+        "Cramp",
+        "Muscle",
+        "Nerve tissue",
+        "Legs",
+        "Abdomen",
+        "Back",
+        "Pain relief",
+        "Reproductive system",
+        "Passion",
+        "Acceptance",
+        "Letting go of thoughts and feelings no longer helpful",
+        "Stabilising",
+        "Balance",
+        "Protection",
+        "Support",
+        "Fluid retention",
+        "Hips",
+        "Motivation"
+      ],
+      "chakras": ["Base/Root"],
+      "elements": ["Earth"],
+      "zodiac": ["Capricorn", "Scorpio", "Sagittarius", "Virgo"],
+      "hardness": 7,
+      "color": "Light to dark brown, smoky brown/grey tones",
+      "healingProperties": {
+        "physical": [
+          "Reproductive system",
+          "Pain relief",
+          "Heart",
+          "Legs",
+          "Cramp",
+          "Back",
+          "Hips",
+          "Headaches",
+          "Nerves",
+          "Fluid retention",
+          "Concentration",
+          "Detoxifies",
+          "Supports the body through chemotherapy and radiotherapy"
+        ],
+        "emotional": [
+          "Letting go of thoughts and feelings no longer helpful",
+          "Stabilising",
+          "Balance",
+          "Protection",
+          "Support",
+          "Can aid depression",
+          "Helps with life decisions",
+          "Helps through difficult times",
+          "Nightmares",
+          "Releasing control patterns",
+          "Encourages passion",
+          "Motivation"
+        ],
+        "spiritual": [
+          "Absorbs environmental negative energies and electromagnetic smog",
+          "Karmic release",
+          "Grounding and stabilising energy",
+          "Cleansing to the base chakra",
+          "Earth energies"
+        ]
+      },
+      "meditationUses": [
+        "Good meditation tool",
+        "Useful for grounding your energies when you feel overwhelmed or stressed",
+        "Cleansing the base chakra",
+        "Helping with 'letting go' of unwanted thoughts and feelings",
+        "Releasing old patterns",
+        "Gently exploring difficult emotions for understanding and insight",
+        "Useful to bring mental clarity, action, and motivation"
+      ],
+      "affirmations": [
+        "I am safe and supported.",
+        "I release energy that no longer serves me.",
+        "I let go of fear, tension, and old patterns with ease.",
+        "I am aligned and balanced.",
+        "My mind is clear and calm.",
+        "I am focussed.",
+        "All is well.",
+        "I let go and breathe."
+      ],
+      "usageInstructions": [
+        "Wear or carry for help with emotional release.",
+        "Use in meditation to gain insight into difficult emotions and let go of unwanted energy, thoughts, and feelings.",
+        "Place to the base chakra whilst meditating or relaxing, to help with grounding your energy.",
+        "Place in areas of the home where negative energies collect, e.g. near bins, around shoes and coats to absorb environmental negativity.",
+        "Place in workspace or living area to encourage concentration and release stress.",
+        "Place a smoky quartz 'egg' in the boot of a car to absorb the negative energy from emissions."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/smoky-quartz-01.jpg"
+      ]
+    },
+    {
+      "id": "blue-obsidian-30",
+      "name": "Blue Obsidian",
+      "description": "For communication, promotes clear connection and clarity with words, good for those making speeches or wanting to express and communicate ideas clearly, aids with speech defects, pain, eye disorders, compassion, throat chakra healing, emotionally soothing, reduces agitation, can help you speak calmly, reassurance, expressing difficult emotions, being heard, peaceful awareness, emotional safety and flow, strength, intuition, clarity, expression, clear thinking, detoxification.",
+      "properties": [
+        "Communication",
+        "Promotes clear connection",
+        "Clarity with words",
+        "Speech defects",
+        "Pain",
+        "Eye disorders",
+        "Compassion",
+        "Throat chakra healing",
+        "Emotionally soothing",
+        "Reduces agitation",
+        "Reassurance",
+        "Expressing difficult emotions",
+        "Being heard",
+        "Peaceful awareness",
+        "Emotional safety and flow",
+        "Strength",
+        "Intuition",
+        "Clarity",
+        "Expression",
+        "Clear thinking",
+        "Detoxification"
+      ],
+      "chakras": ["Third Eye", "Throat"],
+      "elements": ["Water", "Air"],
+      "zodiac": ["Aquarius", "Pisces", "Libra"],
+      "hardness": 5.5,
+      "color": "Blue, navy-blue, blue-black, turquoise",
+      "healingProperties": {
+        "physical": [
+          "Speech defects",
+          "Enlarged prostate",
+          "Blockages",
+          "Eye disorders",
+          "Pain",
+          "Agitation",
+          "Communication"
+        ],
+        "emotional": [
+          "Clear connection",
+          "Clarity with words",
+          "Emotional safety and flow",
+          "Expression",
+          "Expressing difficult emotions",
+          "Compassion",
+          "Reduces agitation",
+          "Speaking calmly",
+          "Reassurance",
+          "Support",
+          "Emotionally soothing",
+          "Calm"
+        ],
+        "spiritual": [
+          "Throat chakra healing",
+          "Intuition",
+          "Being heard",
+          "Strength",
+          "Clear thinking",
+          "Peaceful awareness",
+          "Expressing 'self' clearly"
+        ]
+      },
+      "meditationUses": [
+        "Bring clarity to thoughts and feelings",
+        "Understanding how to best express yourself",
+        "Visualising positive outcomes in conversations or situations",
+        "Dealing with uncomfortable thoughts and feelings",
+        "Peaceful awareness",
+        "Intuitive thoughts",
+        "Reassurance and support",
+        "Calmness and strength"
+      ],
+      "affirmations": [
+        "I express myself with ease.",
+        "I am calm and clear.",
+        "I speak my truth with calm confidence.",
+        "I express myself honestly and kindly.",
+        "Peace flows through me.",
+        "I trust my inner voice.",
+        "I listen with openness and respond with clarity.",
+        "I am confident."
+      ],
+      "usageInstructions": [
+        "Wear or carry when clear communication is needed.",
+        "Wear or carry when you want to be heard or need to express yourself.",
+        "Wear or carry when making a speech or having difficult conversations.",
+        "Use in meditation, place on the throat chakra for clearing any blockages.",
+        "Use in meditation, place on the third eye chakra for greater insight and intuition.",
+        "Hold in visualisation practices to encourage positivity, peaceful awareness, and flow – visualising positive outcomes in situations.",
+        "Wear or carry to help with pain or eye problems.",
+        "Place in a workspace to encourage clear communication."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/blue-obsidian-01.jpg"
+      ]
+    },
+    {
+      "id": "snow-quartz-31",
+      "name": "Snow Quartz",
+      "description": "Heals and protects the sacral chakra, flows peace and Light energy, gently supportive and constant, nurtures strength, quiets the mind, gently grounding, brings calm and emotional balance. Deepens inner wisdom, intuition. Helps let go of overwhelming responsibilities. Great for those working as therapists helping to support Light work, angelic presence, placed outside on a cairn it supports wildlife.",
+      "properties": [
+        "Heals and protects the sacral chakra",
+        "Flows peace and Light energy",
+        "Gently supportive and constant",
+        "Nurtures strength",
+        "Quiets the mind",
+        "Gently grounding",
+        "Brings calm and emotional balance",
+        "Deepens inner wisdom",
+        "Intuition",
+        "Helps let go of overwhelming responsibilities",
+        "Angelic presence",
+        "Supports wildlife"
+      ],
+      "chakras": ["Sacral", "Solar Plexus"],
+      "elements": ["Earth", "Air", "Water"],
+      "zodiac": ["Cancer", "Virgo", "Capricorn"],
+      "hardness": 7,
+      "color": "Milky white to off-white",
+      "healingProperties": {
+        "physical": [
+          "General body tension",
+          "Stress",
+          "Overstimulation",
+          "Restlessness",
+          "Sleep issues",
+          "Fatigue",
+          "Digestive discomfort",
+          "Nervous system"
+        ],
+        "emotional": [
+          "Gentle support",
+          "Emotionally soothing",
+          "Calm",
+          "Resilience",
+          "Encourages letting of victimhood and eases overwhelm",
+          "Enhances cooperation",
+          "Helps in learning 'life' lessons"
+        ],
+        "spiritual": [
+          "Sacral chakra healing",
+          "Solar plexus connection",
+          "Intuition",
+          "Letting go of what no longer serves you",
+          "Strength",
+          "Gentle clarity",
+          "Peaceful awareness",
+          "Sense of safety and inner stillness",
+          "Greater wisdom",
+          "Angelic presence"
+        ]
+      },
+      "meditationUses": [
+        "Connect with the Light",
+        "Access personal inner wisdom",
+        "Find stillness and peace",
+        "Quieten the mind",
+        "To aid in learning lessons and letting go or overwhelm",
+        "Reassurance and support"
+      ],
+      "affirmations": [
+        "Peace flows through me.",
+        "I am supported and guided.",
+        "I let go and breathe.",
+        "Clarity comes to me softly and in time.",
+        "I allow myself to rest.",
+        "I let go of what feels heavy.",
+        "Lightness is allowed in my life.",
+        "I have strength."
+      ],
+      "usageInstructions": [
+        "Wear or carry when you are feeling overwhelmed or need gentle support.",
+        "Place near bed or under pillow when fatigues or having trouble sleeping.",
+        "For therapist to wear for greater connection to the Light and protection.",
+        "Use in meditation to help work through issues around overwhelm.",
+        "Use in meditation to aid with intuitive thoughts around the need to 'let go' of limitations.",
+        "Place on the sacral chakra for gentle healing.",
+        "Place in a therapy room for gentle supportive Light energy.",
+        "Can be placed outside on a cairn to encourage and sustain wildlife."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/snow-quartz-01.jpg"
+      ]
+    },
+    {
+      "id": "kunzite-32",
+      "name": "Kunzite",
+      "description": "The relationship crystal, nurtures unconditional love, works with the heart chakra to align to the throat and third eye, can imbue trust and innocence, clears emotional blockages, encourages self-expression, dispels negativity around the heart, promotes harmony within relationships (romantic or other), dissolves resistance, instils humility, promoting tolerance, forgiveness, and acceptance. A high vibrational crystal.",
+      "properties": [
+        "Relationship crystal",
+        "Nurtures unconditional love",
+        "Works with the heart chakra",
+        "Aligns to the throat and third eye",
+        "Imbue trust and innocence",
+        "Clears emotional blockages",
+        "Encourages self-expression",
+        "Dispels negativity around the heart",
+        "Promotes harmony within relationships",
+        "Dissolves resistance",
+        "Instils humility",
+        "Promoting tolerance",
+        "Forgiveness",
+        "Acceptance",
+        "High vibrational crystal"
+      ],
+      "chakras": ["Heart", "Throat", "Third Eye"],
+      "elements": ["Earth", "Air", "Water"],
+      "zodiac": ["Cancer", "Virgo", "Capricorn"],
+      "hardness": 7,
+      "color": "Pale pink to lavender pink, pale to rosy lavender",
+      "healingProperties": {
+        "physical": [
+          "Circulatory system",
+          "Epilepsy",
+          "Stress related anxiety",
+          "Low mood",
+          "Neuralgia",
+          "Joint pain",
+          "Heart"
+        ],
+        "emotional": [
+          "Heartache",
+          "Disappointment",
+          "Tolerance",
+          "Unconditional love",
+          "Letting go of suppressed emotions",
+          "Softens sadness",
+          "Opens the heart",
+          "Creativity",
+          "Inspiration",
+          "Harmony",
+          "Tolerance",
+          "Acceptance"
+        ],
+        "spiritual": [
+          "Works with heart chakra",
+          "Encourages harmony",
+          "Cooperation",
+          "Tolerance",
+          "Connects to intellect and intuition",
+          "Heals emotional pain and blockages to inner growth",
+          "Dispels negativity",
+          "Shows unconditional love"
+        ]
+      },
+      "meditationUses": [
+        "Nurture unconditional love",
+        "Understand past pain and remove emotional blockages",
+        "Encourage tolerance, harmony, and personal growth",
+        "Heal emotional pain and heartache",
+        "Understand relationship issues",
+        "Inner wisdom, empathy, and guidance",
+        "Encourage forgiveness of self and others",
+        "Aligning the heart chakra with throat and third eye"
+      ],
+      "affirmations": [
+        "My heart is safe to open.",
+        "I treat myself with kindness and compassion.",
+        "I am held in loving energy.",
+        "I release resentment and choose peace.",
+        "Compassion begins with me.",
+        "I am guided by love.",
+        "I create harmony in my relationships.",
+        "I am creative and in flow.",
+        "I can express myself safely and freely."
+      ],
+      "usageInstructions": [
+        "Wear or carry to aid in relationship work and bring harmony, tolerance, and peace.",
+        "Place in bedroom or home to help with relationship harmony.",
+        "Use in meditation for greater connection.",
+        "Place over heart chakra in meditation to open heart chakra and work on unconditional love.",
+        "Use in meditation or journaling work to understand emotion pain and blockages, freeing up feelings and clearing negative energy.",
+        "Place by bed for continued healing of the heart chakra."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/kunzite-01.jpg"
+      ]
+    },
+    {
+      "id": "tigers-eye-33",
+      "name": "Tiger's Eye",
+      "description": "A protective stone, warding off negative energies, releasing from the solar plexus to the earth. Tiger's Eye helps you to see more clearly, your inner talents and strengths and also your faults. Supports integrity and dealing with issues of self-worth, self-criticism, and confidence. It has grounding energy that helps you to 'get things done', promoting assertion, willpower, and bringing change into the physical body. Can support an addictive personality with making changes. Enhances focus and discipline.",
+      "properties": [
+        "Protective stone",
+        "Warding off negative energies",
+        "Releasing from the solar plexus to the earth",
+        "Helps you to see more clearly",
+        "Your inner talents and strengths",
+        "Also your faults",
+        "Supports integrity",
+        "Dealing with issues of self-worth",
+        "Self-criticism",
+        "Confidence",
+        "Grounding energy",
+        "Get things done",
+        "Promoting assertion",
+        "Willpower",
+        "Bringing change into the physical body",
+        "Addictive personality",
+        "Making changes",
+        "Enhances focus",
+        "Discipline"
+      ],
+      "chakras": ["Third Eye", "Solar Plexus", "Base"],
+      "elements": ["Fire", "Earth"],
+      "zodiac": ["Leo", "Capricorn", "Aries"],
+      "hardness": 5.5,
+      "color": "Golden-brown",
+      "healingProperties": {
+        "physical": [
+          "Fatigue",
+          "Eyes",
+          "Depression",
+          "Nervous system",
+          "Digestion",
+          "Strengthening bones",
+          "Joint support",
+          "Brain"
+        ],
+        "emotional": [
+          "Balancing logical and creative thinking",
+          "Balanced emotions",
+          "Clear seeing",
+          "Integrity",
+          "Perception",
+          "Self-worth",
+          "Confidence",
+          "Willpower",
+          "Focus",
+          "Courage",
+          "Self-belief",
+          "Discipline",
+          "Internal clarity",
+          "Addictive personality",
+          "Mental health"
+        ],
+        "spiritual": [
+          "Protection against negative energy",
+          "Grounding",
+          "Bringing change into the physical body",
+          "Achievement of goals and aspirations",
+          "Freeing blocked creativity"
+        ]
+      },
+      "meditationUses": [
+        "Achievement of goals",
+        "Curating discipline and strengthening willpower",
+        "Freeing creative energy",
+        "Balancing logical and creative thinking",
+        "Understanding yourself better",
+        "Integrity",
+        "Clear seeing",
+        "Confidence and self-belief",
+        "Bringing healing to the Third Eye and Solar Plexus chakras"
+      ],
+      "affirmations": [
+        "I am motivated and aligned with my goals.",
+        "I believe in myself.",
+        "It is safe for me to change.",
+        "I see clearly what I need to do.",
+        "I am confident, capable, and strong.",
+        "I stand firmly in my personal power.",
+        "I am safe and protected."
+      ],
+      "usageInstructions": [
+        "Wear or carry when you feel you need protection.",
+        "Use in meditation to enable clarity – seeing your strengths and talents.",
+        "Use in meditation or journaling work to aid understanding and bring clarity over issues of self-worth and self-criticism.",
+        "Place over Solar Plexus chakra to help remove negative energy to the earth.",
+        "Wear or carry to help with either motivation, discipline, focus or creativity.",
+        "Place on Third Eye chakra if you are having issues with your eyes."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/tigers-eye-01.jpg"
+      ]
+    },
+    {
+      "id": "clear-quartz-34",
+      "name": "Clear Quartz",
+      "description": "Clear Quartz is a powerful magnifier and enhancer of energy. Known as the 'master crystal'. It holds every colour and radiates pure Light energy. Placed next to other crystals it enhances and boosts their power. It absorbs, stores, regulates, and releases energy. Energetically lifts and detoxifies. It holds the purest Light energy and promotes this energy within as well as outside the body and in the home or environment. Deep cleanser.",
+      "properties": [
+        "Powerful magnifier and enhancer of energy",
+        "Master crystal",
+        "Holds every colour",
+        "Radiates pure Light energy",
+        "Enhances and boosts their power",
+        "Absorbs, stores, regulates, and releases energy",
+        "Energetically lifts and detoxifies",
+        "Holds the purest Light energy",
+        "Promotes this energy within as well as outside the body",
+        "In the home or environment",
+        "Deep cleanser"
+      ],
+      "chakras": ["Balances All"],
+      "elements": ["All"],
+      "zodiac": ["All"],
+      "hardness": 7,
+      "color": "Clear - white",
+      "healingProperties": {
+        "physical": [
+          "Brings the body into balance",
+          "Cleanses organs",
+          "Master healer for any condition",
+          "Burns",
+          "Immune system"
+        ],
+        "emotional": ["Brings Light energy", "Uplifts", "Enhances environment"],
+        "spiritual": [
+          "Works on multidimensional levels of being",
+          "Soul cleanser",
+          "Positively realigns the body",
+          "Energy lift and detoxification",
+          "Transformation"
+        ]
+      },
+      "meditationUses": [
+        "Use with other crystals to amplify their energies and the greater use of those crystals",
+        "Use to release and regulate energy",
+        "Detoxify and realign"
+      ],
+      "affirmations": [
+        "I trust my intuition and inner guidance.",
+        "My energy is clear, open, and protected.",
+        "I welcome Light energy.",
+        "I am healing in my own time."
+      ],
+      "usageInstructions": [
+        "Use with other crystals to amplify their power.",
+        "Place in the home to radiate Light energy.",
+        "Use in meditation to enhance Light energy, align, and release.",
+        "Use by your bed to boost your immune system."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/clear-quartz-01.jpg"
+      ]
+    },
+    {
+      "id": "celestite-35",
+      "name": "Celestite",
+      "description": "Connects to angelic consciousness, bringing divine energy into the environment. Good for boosting spiritual development and metaphysical abilities. It is soothing, promoting 'purity of heart', bringing harmonious and calm energy, and stimulating a balanced mood when stressed. Urges openness to new experiences and space for communication and agreement in difficult relationships. Celestite is a high vibrational crystal.",
+      "properties": [
+        "Connects to angelic consciousness",
+        "Bringing divine energy into the environment",
+        "Boosting spiritual development",
+        "Metaphysical abilities",
+        "Soothing",
+        "Promoting 'purity of heart'",
+        "Bringing harmonious and calm energy",
+        "Stimulating a balanced mood when stressed",
+        "Urges openness to new experiences",
+        "Space for communication and agreement",
+        "difficult relationships",
+        "High vibrational crystal"
+      ],
+      "chakras": ["Third Eye", "Crown", "Throat"],
+      "elements": ["Air", "Water"],
+      "zodiac": ["Gemini", "Pisces", "Libra"],
+      "hardness": 3.25,
+      "color": "Pale blue, white, light grey",
+      "healingProperties": {
+        "physical": [
+          "Muscle tension",
+          "Pain",
+          "Eyes",
+          "Throat",
+          "Ears",
+          "Mental health",
+          "Detoxification"
+        ],
+        "emotional": [
+          "Mental clarity",
+          "Worry",
+          "Difficult relationships",
+          "Balance",
+          "Stress",
+          "Anger",
+          "Communication"
+        ],
+        "spiritual": [
+          "Angelic consciousness",
+          "Spiritual development",
+          "Metaphysical abilities",
+          "Divine energy",
+          "Trust",
+          "Faith",
+          "Wisdom",
+          "'Purity of heart'"
+        ]
+      },
+      "meditationUses": [
+        "To calm, soothe and transmute difficult emotions and conflicts",
+        "To deepen spiritual connection and understanding",
+        "Connect to angelic consciousness",
+        "Bring mental balance",
+        "Trust in the divine"
+      ],
+      "affirmations": [
+        "I create peaceful relationships.",
+        "I am open to new experiences.",
+        "I am divinely guided and trust my path.",
+        "I am pure of heart.",
+        "Peace flows through me.",
+        "I communicate with ease and clarity."
+      ],
+      "usageInstructions": [
+        "Wear or carry when speaking to large audiences.",
+        "Place in room to attract angelic presence, protection, and support (particularly good for children and chronically ill people).",
+        "Use in meditation to deepen spiritual connection and gain personal insights.",
+        "Use in meditation or journaling work to aid understanding over difficult relationships, anger issues or worries.",
+        "Place on Third Eye or Throat chakra to bringing healing and encourage openness."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/celestite-01.jpg"
+      ]
+    },
+    {
+      "id": "emerald-36",
+      "name": "Emerald",
+      "description": "Is a strong balancer of the body, mind, and spirit. It heals the heart and can enhance unity, successful partnership, friendship, and unconditional love. Promotes 'successful love'. Brings mental clarity and seeing clearly. Encourages cellular regeneration and is useful for recovery after long illness. A crystal for patience, integrity, loyalty, understanding, discernment, and clear expression. Strengthening qualities good for supporting physical heath and recovery.",
+      "properties": [
+        "Strong balancer of the body, mind, and spirit",
+        "Heals the heart",
+        "Can enhance unity",
+        "Successful partnership",
+        "Friendship",
+        "Unconditional love",
+        "Promotes 'successful love'",
+        "Brings mental clarity",
+        "Seeing clearly",
+        "Encourages cellular regeneration",
+        "Recovery after long illness",
+        "Patience",
+        "Integrity",
+        "Loyalty",
+        "Understanding",
+        "Discernment",
+        "Clear expression",
+        "Strengthening qualities",
+        "Supporting physical heath",
+        "Recovery"
+      ],
+      "chakras": ["Heart"],
+      "elements": ["Water", "Earth"],
+      "zodiac": ["Gemini", "Taurus", "Aries"],
+      "hardness": 7.75,
+      "color": "Green, bluish-green, yellowish-green",
+      "healingProperties": {
+        "physical": [
+          "Heart",
+          "Circulatory system",
+          "Blood pressure",
+          "Detoxification",
+          "Lungs",
+          "Sinuses",
+          "Vision",
+          "Eyes",
+          "Diabetes",
+          "Recovery after infections",
+          "Epilepsy",
+          "Spine",
+          "Osteoporosis"
+        ],
+        "emotional": [
+          "Mental stability and clarity",
+          "Balancing",
+          "Heart-centred communication",
+          "Anxiety",
+          "Encourages forgiveness and trust",
+          "Promotes love",
+          "Friendship",
+          "Cooperation",
+          "Loyalty",
+          "Patience"
+        ],
+        "spiritual": [
+          "Enhances metaphysical abilities",
+          "Balances mind, body and spirit",
+          "Inner peace",
+          "Heart-opening",
+          "Emotional safety"
+        ]
+      },
+      "meditationUses": [
+        "To open the heart",
+        "Work on forgiveness and relationship issues",
+        "Bring unconditional love",
+        "Inner peace",
+        "Cooperation",
+        "Balancing and grounding",
+        "Supporting renewal of the whole body"
+      ],
+      "affirmations": [
+        "I am renewed and supported.",
+        "I forgive and let go.",
+        "My heart is open.",
+        "I see clearly.",
+        "I am at peace.",
+        "I nurture loving relationships.",
+        "I love and am loved.",
+        "I am ready to live."
+      ],
+      "usageInstructions": [
+        "Wear or carry to promote love in all your relationships.",
+        "Place on the heart chakra during meditation to encourage healing to and opening of the heart.",
+        "Use in meditation to help with mental clarity and deeper understanding.",
+        "Place under pillow to aid recovery after illness or infections. Also wear or carry.",
+        "Use in meditation or spiritual work to encourage metaphysical abilities."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/emerald-01.jpg"
+      ]
+    },
+    {
+      "id": "jet-37",
+      "name": "Jet",
+      "description": "A protective and powerful stone, protecting against illness and shielding against negativity, violence, or attack. Helps to strengthen a person's sense of purpose and potential in life. Promotes 'taking control' of your life, dispensing negativity, and unnecessary fears. Good for aiding and balancing finances and protecting businesses. Great for aiding flow in your life, boosting energy and making changes in life specifically around work or career.",
+      "properties": [
+        "Protective and powerful stone",
+        "Protecting against illness",
+        "Shielding against negativity",
+        "Violence or attack",
+        "Helps to strengthen a person's sense of purpose",
+        "Potential in life",
+        "Promotes 'taking control' of your life",
+        "Dispensing negativity",
+        "Unnecessary fears",
+        "Good for aiding and balancing finances",
+        "Protecting businesses",
+        "Aiding flow in your life",
+        "Boosting energy",
+        "Making changes in life",
+        "Work or career"
+      ],
+      "chakras": ["Base", "Heart"],
+      "elements": ["Earth", "Water"],
+      "zodiac": ["Capricorn", "Scorpio"],
+      "hardness": 1.5,
+      "color": "Black",
+      "healingProperties": {
+        "physical": [
+          "Menstrual cramps",
+          "Colds",
+          "Migraines",
+          "Tension headaches",
+          "Coughs",
+          "Stomach pains",
+          "Epilepsy",
+          "Depression",
+          "Grounding",
+          "Base chakra"
+        ],
+        "emotional": [
+          "Helps with grief",
+          "Protects against negative energy",
+          "Threatening situations",
+          "Mood swings",
+          "Stress",
+          "Fears",
+          "Helps with boundary setting",
+          "Taking control",
+          "Unhealthy attachments",
+          "Depressed mood",
+          "Letting go of past trauma"
+        ],
+        "spiritual": [
+          "Transformation",
+          "Base chakra cleansing",
+          "Emotional stability and security",
+          "Self-control",
+          "Opening up the divine path",
+          "Strengthening your role in life",
+          "Soul's potential",
+          "Encourages energy and flow",
+          "Expanded awareness"
+        ]
+      },
+      "meditationUses": [
+        "Help cleanse the base chakra",
+        "Grounding",
+        "Discover and understand any changes you want to make in life",
+        "Encourage energy flow",
+        "Aid focus and determination",
+        "Awareness of how to take control",
+        "Spiritual connection"
+      ],
+      "affirmations": [
+        "I am in control, safe and protected.",
+        "I am on the right path.",
+        "I am full of energy.",
+        "I flow through life with ease.",
+        "I have infinite potential.",
+        "I am divinely guided."
+      ],
+      "usageInstructions": [
+        "Place on base chakra in meditation for grounding and cleansing.",
+        "Wear or carry to help with life decisions or changes.",
+        "Use in meditation to discover life's purpose or path.",
+        "Use in meditation to understand how to take control of your life.",
+        "Place in cash boxes/registers in business to stabilize finances and protect.",
+        "Wear or carry in difficult or threatening situations or when dealing with grief."
+      ],
+      "imageUris": ["https://ksarpash.github.io/CrystalAI/images/jet-01.jpg"]
+    },
+    {
+      "id": "green-jade-38",
+      "name": "Green Jade",
+      "description": "Strongly associated with Chinese culture, believed to bring protection, prosperity, and longevity. Nurtures a generous spirit, frees energy to attract abundance. Associated with serenity, purity, and the heart. Encourages authenticity, being who you really are - a spiritual being having a human experience. It is a stabilising and protective crystal. Good for children and an emotional healer of physical harm.",
+      "properties": [
+        "Strongly associated with Chinese culture",
+        "Believed to bring protection",
+        "Prosperity",
+        "Longevity",
+        "Nurtures a generous spirit",
+        "Frees energy to attract abundance",
+        "Associated with serenity",
+        "Purity",
+        "The heart",
+        "Encourages authenticity",
+        "Being who you really are",
+        "A spiritual being having a human experience",
+        "Stabilising",
+        "Protective crystal",
+        "Good for children",
+        "Emotional healer of physical harm"
+      ],
+      "chakras": ["Heart", "Third Eye"],
+      "elements": ["Water", "Earth"],
+      "zodiac": ["Gemini", "Taurus", "Aries"],
+      "hardness": 6,
+      "color": "Green",
+      "healingProperties": {
+        "physical": [
+          "Heart",
+          "Kidneys",
+          "Filtration",
+          "Detoxification",
+          "Hips",
+          "Fertility",
+          "Childbirth",
+          "Skin",
+          "Facial tension",
+          "Lymphatic drainage",
+          "Longevity",
+          "Bones and joints",
+          "Skeletal system",
+          "Inflammation",
+          "Puffiness"
+        ],
+        "emotional": [
+          "Stress",
+          "Tension",
+          "Encourages authenticity",
+          "Stabilising",
+          "Self-reliance",
+          "Emotional balance",
+          "Calm",
+          "Peace",
+          "Serenity",
+          "Harmony in relationships",
+          "Protection",
+          "Boundaries",
+          "Empathy",
+          "Forgiveness",
+          "Maturity",
+          "Self-sufficiency"
+        ],
+        "spiritual": [
+          "Integrates mind and body",
+          "Wisdom",
+          "Unconditional love",
+          "Letting go of negativity",
+          "Builds quiet confidence",
+          "Understanding your human journey",
+          "Spiritual connection"
+        ]
+      },
+      "meditationUses": [
+        "Work on your authentic self",
+        "Strengthen spiritual understanding",
+        "Attract abundance",
+        "Bring unconditional love",
+        "Find inner stillness and reflection",
+        "Encourage forgiveness, wisdom, and love"
+      ],
+      "affirmations": [
+        "I am calm and peaceful.",
+        "I forgive and let go.",
+        "My confidence is growing.",
+        "I welcome abundance into my life.",
+        "I attract wealth and abundance.",
+        "I create harmony in my relationships."
+      ],
+      "usageInstructions": [
+        "Wear or carry to bring serenity and purity of heart.",
+        "Place on the heart chakra or hold during meditation to bring stability and let you open to your authentic self.",
+        "Place in the home to encourage an abundant life and longevity.",
+        "Wear or carry to help with pains in the joints and/or inflammation. Place near the problem area if possible, using medical tape to hold in place.",
+        "Use in meditation or whilst doing reflective journaling to help with spiritual connection and guidance.",
+        "Place under pillow to bring peace and serenity."
+      ],
+      "imageUris": ["https://ksarpash.github.io/CrystalAI/images/jade-01.jpg"]
+    },
+    {
+      "id": "howlite-39",
+      "name": "Howlite",
+      "description": "Improves and strengthens memory, mental energy, and the desire for knowledge. Helps with attention and retention within the mind, increasing wisdom, awareness, and discernment. Soothes turbulent emotions, calming anger, anxiety, relieves insomnia, sleep issues and night fears. Good for reluctant learners (children and adults) and overthinkers. Helps with being your authentic self and creating your ambitions and desires.",
+      "properties": [
+        "Improves and strengthens memory",
+        "Mental energy",
+        "The desire for knowledge",
+        "Helps with attention",
+        "Retention within the mind",
+        "Increasing wisdom",
+        "Awareness",
+        "Discernment",
+        "Soothes turbulent emotions",
+        "Calming anger",
+        "Anxiety",
+        "Relieves insomnia",
+        "Sleep issues",
+        "Night fears",
+        "Good for reluctant learners",
+        "Overthinkers",
+        "Helps with being your authentic self",
+        "Creating your ambitions and desires"
+      ],
+      "chakras": ["Third-Eye", "Crown", "Throat"],
+      "elements": ["Air", "Water"],
+      "zodiac": ["Gemini", "Virgo", "Capricorn"],
+      "hardness": 3.5,
+      "color": "White with grey/black veining",
+      "healingProperties": {
+        "physical": [
+          "Bones",
+          "Teeth",
+          "Soft tissue",
+          "Nervous system",
+          "Balance calcium levels",
+          "Jaw clenching",
+          "Stress-related muscle tightness",
+          "Tension headaches",
+          "Detoxification assistance",
+          "Fluid retention",
+          "Dietary problems",
+          "Weight issues"
+        ],
+        "emotional": [
+          "Soothes emotions",
+          "Anxiety and anger",
+          "Aids sleep issues",
+          "Insomnia",
+          "Emotional expression",
+          "Overactive mind",
+          "Overwhelm",
+          "Patience",
+          "Memory",
+          "Focus",
+          "Wisdom",
+          "Strengthens mental energy",
+          "Thoughtful communication",
+          "Patience"
+        ],
+        "spiritual": [
+          "Supports spiritual insight",
+          "Inner wisdom",
+          "Connection to divine wisdom",
+          "Mental clarity",
+          "Enhances dream recall",
+          "Accessing higher states of consciousness",
+          "Promotes positive character traits"
+        ]
+      },
+      "meditationUses": [
+        "Aid focus, memory and the retention of knowledge",
+        "Spiritual connection",
+        "Deeper understanding around personal issues",
+        "Assistance with discernment and thoughtful communication",
+        "Calm an overactive mind",
+        "Reduce overwhelm and soothe emotions"
+      ],
+      "affirmations": [
+        "I am calm and peaceful.",
+        "I see clearly and understand myself.",
+        "My mind is calm, I let go of my worries and feel peace.",
+        "I connect with my inner wisdom and know that it will guide me.",
+        "I choose my words carefully for the greatest good of all.",
+        "I am focussed and attentive."
+      ],
+      "usageInstructions": [
+        "Place on Third-Eye chakra in mediation to encourage clarity and opening to greater wisdom.",
+        "Place under pillow at night to aid with sleep issues or dream recall.",
+        "Wear or carry to help bring focus and attention to work and tasks.",
+        "Wear or carry when communication with sensitivity or discernment is needed.",
+        "Use in meditation for personal understanding and connection to inner wisdom.",
+        "Use in meditation to connect to divine guidance and wisdom.",
+        "Wear or carry to absorb anger (self and others)."
+      ],
+      "imageUris": [
+        "https://ksarpash.github.io/CrystalAI/images/howlite-01.jpg"
+      ]
+    },
+    {
+      "id": "ruby-40",
+      "name": "Ruby",
+      "description": "Ruby is a crystal for unconditional love, passion, and devotion. It is a grounding crystal associated with the base chakra, linked with survival, life force energy, motivation, and vitality. It supports emotional courage, removing negative energy to help a person flow forward in peace and harmony and take positive action with strength and enthusiasm. Strengthens commitment and loyalty, concentration and drive. Can help in recovery from addiction, alcohol, or sexual abuse.",
+      "properties": [
+        "Crystal for unconditional love",
+        "Passion",
+        "Devotion",
+        "Grounding crystal",
+        "Associated with the base chakra",
+        "Linked with survival",
+        "Life force energy",
+        "Motivation",
+        "Vitality",
+        "Supports emotional courage",
+        "Removing negative energy",
+        "Flow forward in peace and harmony",
+        "Take positive action",
+        "Strength and enthusiasm",
+        "Strengthens commitment",
+        "Loyalty",
+        "Concentration",
+        "Drive",
+        "Recovery from addiction",
+        "Alcohol",
+        "Sexual abuse"
+      ],
+      "chakras": ["Base", "Heart"],
+      "elements": ["Fire", "Earth"],
+      "zodiac": ["Leo", "Aries", "Scorpio", "Sagittarius", "Cancer"],
+      "hardness": 9,
+      "color": "Red",
+      "healingProperties": {
+        "physical": [
+          "Heart",
+          "Blood health",
+          "Circulation",
+          "Fatigue",
+          "Addiction",
+          "Sexual abuse",
+          "Stamina",
+          "Physical strength",
+          "Fever",
+          "Immune system",
+          "Circulatory system",
+          "Detoxification",
+          "Kidneys",
+          "Reproductive organs"
+        ],
+        "emotional": [
+          "Encourages motivation",
+          "Enthusiasm",
+          "Vitality",
+          "Peace and harmony",
+          "Unconditional love",
+          "Passion",
+          "Drive",
+          "Life-force energy",
+          "Courage",
+          "Commitment",
+          "Loyalty",
+          "Gentleness",
+          "Grounding energy",
+          "Protection",
+          "Confidence",
+          "Concentration"
+        ],
+        "spiritual": [
+          "Stimulates passion and creativity",
+          "Protects the auric field",
+          "Base chakra healing",
+          "Strengthens personal boundaries",
+          "Brings authentic confidence",
+          "Gentle assertiveness",
+          "Connection to life purpose",
+          "Removing stagnant energy",
+          "Selflessness",
+          "Clear visualisation"
+        ]
+      },
+      "meditationUses": [
+        "To stimulate energy and motivation",
+        "Clear negative energy from base chakra",
+        "To engage with inner confidence and build assertiveness",
+        "To feel and encourage unconditional love",
+        "Connect with your inner passion and life purpose"
+      ],
+      "affirmations": [
+        "I am full of energy and love.",
+        "I take action and move forward with ease.",
+        "I am confident and express myself as I am.",
+        "I am committed and loyal.",
+        "I love freely and openly, whilst protecting my personal boundaries.",
+        "I flow forward in peace and harmony.",
+        "I allow love into my heart and life."
+      ],
+      "usageInstructions": [
+        "Place to base chakra in meditation for healing and clearing negative energy.",
+        "Wear or carry for support if dealing with addiction or abuse.",
+        "Wear or carry to invigorate and help with motivation and drive.",
+        "Use in meditation to feel and encourage unconditional love, commitment, and loyalty.",
+        "Use in meditation to build confidence and assertiveness. And then wear to promote this."
+      ],
+      "imageUris": ["https://ksarpash.github.io/CrystalAI/images/ruby-01.jpg"]
     }
   ]
 }
-
-
